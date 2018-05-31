@@ -19,14 +19,14 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 'ElecFreaks Learn-en'
+site_name: 'ElecFreaks Learn-cn'
 site_description: 'ElecFreaks Product Document'
 site_author: 'Will'
-site_url: 'https://www.elecfreaks.com/learn-en/'
+site_url: 'https://www.elecfreaks.com/learn-cn/'
 
 # Repository
 repo_name: 'Microbit'
-repo_url: 'https://github.com/elecfreaks/learn-en'
+repo_url: 'https://github.com/elecfreaks/learn-cn'
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2018 ElecFreaks'
@@ -36,7 +36,7 @@ theme_dir: material
 
 # Icon
 #site_favicon: 'docs/images/favicon.ico'
-site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
+site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-cn/master/docs/images/favicon.ico
 
 # Configuration
 theme:
@@ -51,14 +51,14 @@ theme:
     code: 'Roboto Mono'
   logo: 'images/favicon.ico'
   search:
-    language: 'en'
+    language: 'cn'
     tokenizer: '[\s\-\.]+'
 
 # Customization
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/elecfreaks/learn-en'
+      link: 'https://github.com/elecfreaks/learn-cn'
     - type: 'facebook'
       link: 'https://www.facebook.com/ElecFreaksTech/'
     #- type: 'linkedin'
