@@ -1,0 +1,165 @@
+# Copyright (c) 2016-2017 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+# Project information
+site_name: 'ElecFreaks Learn-en'
+site_description: 'ElecFreaks Product Document'
+site_author: 'Will'
+site_url: 'https://www.elecfreaks.com/learn-en/'
+
+# Repository
+repo_name: 'Microbit'
+repo_url: 'https://github.com/elecfreaks/learn-en'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2018 ElecFreaks'
+
+# Theme directory
+theme_dir: material
+
+# Icon
+#site_favicon: 'docs/images/favicon.ico'
+site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
+
+# Configuration
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+  palette:
+    primary: light green
+    accent: 'indigo'    
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/favicon.ico'
+  search:
+    language: 'en'
+    tokenizer: '[\s\-\.]+'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/elecfreaks/learn-en'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/ElecFreaksTech/'
+    #- type: 'linkedin'
+    #  link: 'https://linkedin.com/in/squidfunk'
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+  - pymdownx.keys
+
+# Page tree
+pages:
+  - ElecFreaks Learn: 'index.md'
+
+  - Micro:bit Modules:
+    - BBC Micro:bit Board: Micro_bit_Board.md
+    - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
+    - Octopus:bit: Octopus_bit.md
+    - Motor:bit: Motor_bit.md
+    - Power:bit: Power_bit.md
+    - Ring:bit: Ring_bit.md
+    - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
+
+  - Micro:bit Kits:
+     - Micro:bit Starter Kit:
+          - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
+          - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
+          - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
+          - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
+          - Lesson_04 Photocell: Micro_bit_Starter_Kit_Lesson_04_Photocell.md
+          - Lesson_05 RGB LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED.md
+          - Lesson_06 Self-lock Switch: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch.md
+          - Lesson_07 Temperature Sensor: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor.md
+          - Lesson_08 Servo: Micro_bit_Starter_Kit_Lesson_08_Servo.md
+          - Lesson_09 Buzzer: Micro_bit_Starter_Kit_Lesson_09_Buzzer.md
+          - Lesson_10 Motor: Micro_bit_Starter_Kit_Lesson_10_Motor.md
+          - Lesson_11 Rainbow LED: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED.md
+          - Lesson_12 Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
+          - Lesson_13 Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
+          - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
+     - Micro:bit Tinker Kit: 
+          - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
+          - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
+          - Smart Light: Micro_bit_Tinker_Kit_Case_02_Smart_Light.md
+          - Electro-Theremin: Micro_bit_Tinker_Kit_Case_03_Electro_Theremin.md
+          - Simple Alarm Box: Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box.md
+          - Plant Monitoring Device: Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device.md
+          - Intruder Detection: Micro_bit_Tinker_Kit_Case_06_Intruder_Detection.md
+          - Fish Feeder: Micro_bit_Tinker_Kit_Case_07_Fish_Feeder.md
+          - Motion Detector: Micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
+          - Lie Detector: Micro_bit_Tinker_Kit_Case_09_Lie_Detector.md
+          - PADDLEBALLSUPERSMASHEM: Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM.md
+          - Avoid Asteroids: Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids.md
+          - Remote Control Everything: Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything.md
+          - micro:bit Car: Micro_bit_Tinker_Kit_Case_13_Micro_bit_Car.md
+          - Flipping Pancakes: Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
+          - Maze Runner: Micro_bit_Tinker_Kit_Case_15_Maze_Runner.md
+          - QUICK MATHS: Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
+          - Pitch Perfect: Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
+          - Finger Dexterity: Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
+          - Electric Spirit Level: Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level.md
+          - Space Shooter: Micro_bit_Tinker_Kit_Case_20_Space_Shooter.md
+          - Flappy Bird: Micro_bit_Tinker_Kit_Case_21_Flappy_Bird.md
+          - Wire Transmission: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission.md
+          - Snake Game: Micro_bit_Tinker_Kit_Case_23_Snake_Game.md
+          
+          
+     - Micro:bit Board with Battery Holder kit: 
+          - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
+     - Ring:bit Car Kit: 
+          - Ring:bit Car Kit: Ring_bit_Car_Kit.md
+          - Case_01 Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
+          - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
+          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
+          - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
+          
+  - Micro:bitAccessories:
+    - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
+    - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
+    - Micro:case: Micro_case.md
+    - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
+# Google Analytics
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
