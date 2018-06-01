@@ -93,72 +93,72 @@ pages:
   - ElecFreaks Learn: 'index.md'
 
   - Micro:bit Modules:
-    - BBC Micro:bit Board: Micro_bit_Board.md
-    - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
+    - BBC Micro:bit: Micro_bit_Board.md
+    - Micro:bit 面包板扩展板: Micro_bit_Breadboard_Adapter.md
     - Octopus:bit: Octopus_bit.md
     - Motor:bit: Motor_bit.md
     - Power:bit: Power_bit.md
     - Ring:bit: Ring_bit.md
-    - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
+    - Micro:bit 电源模块 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
-  - Micro:bit Kits:
-     - Micro:bit Starter Kit:
-          - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
-          - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
-          - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
-          - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
-          - Lesson_04 Photocell: Micro_bit_Starter_Kit_Lesson_04_Photocell.md
-          - Lesson_05 RGB LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED.md
-          - Lesson_06 Self-lock Switch: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch.md
-          - Lesson_07 Temperature Sensor: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor.md
-          - Lesson_08 Servo: Micro_bit_Starter_Kit_Lesson_08_Servo.md
-          - Lesson_09 Buzzer: Micro_bit_Starter_Kit_Lesson_09_Buzzer.md
-          - Lesson_10 Motor: Micro_bit_Starter_Kit_Lesson_10_Motor.md
-          - Lesson_11 Rainbow LED: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED.md
-          - Lesson_12 Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
-          - Lesson_13 Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
-          - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
-     - Micro:bit Tinker Kit: 
-          - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
-          - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
-          - Smart Light: Micro_bit_Tinker_Kit_Case_02_Smart_Light.md
-          - Electro-Theremin: Micro_bit_Tinker_Kit_Case_03_Electro_Theremin.md
-          - Simple Alarm Box: Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box.md
-          - Plant Monitoring Device: Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device.md
-          - Intruder Detection: Micro_bit_Tinker_Kit_Case_06_Intruder_Detection.md
-          - Fish Feeder: Micro_bit_Tinker_Kit_Case_07_Fish_Feeder.md
-          - Motion Detector: Micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
-          - Lie Detector: Micro_bit_Tinker_Kit_Case_09_Lie_Detector.md
-          - PADDLEBALLSUPERSMASHEM: Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM.md
-          - Avoid Asteroids: Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids.md
-          - Remote Control Everything: Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything.md
-          - micro:bit Car: Micro_bit_Tinker_Kit_Case_13_Micro_bit_Car.md
-          - Flipping Pancakes: Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
-          - Maze Runner: Micro_bit_Tinker_Kit_Case_15_Maze_Runner.md
-          - QUICK MATHS: Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
-          - Pitch Perfect: Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
-          - Finger Dexterity: Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
-          - Electric Spirit Level: Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level.md
-          - Space Shooter: Micro_bit_Tinker_Kit_Case_20_Space_Shooter.md
-          - Flappy Bird: Micro_bit_Tinker_Kit_Case_21_Flappy_Bird.md
-          - Wire Transmission: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission.md
-          - Snake Game: Micro_bit_Tinker_Kit_Case_23_Snake_Game.md
+  - Micro:bit 套件:
+     - Micro:bit 小小科学家套件:
+          - Micro:bit 小小科学家套件: Micro_bit_Starter_Kit.md
+          - 课程_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED_CN.md
+          - 课程_02 按钮: Micro_bit_Starter_Kit_Lesson_02_Button_CN.md
+          - 课程_03 电位器: Micro_bit_Starter_Kit_Lesson_03_Trimpot_CN.md
+          - 课程_04 光敏电阻: Micro_bit_Starter_Kit_Lesson_04_Photocell_CN.md
+          - 课程_05 三色LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED_CN.md
+          - 课程_06 自锁开关: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch_CN.md
+          - 课程_07 温度传感器: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor_CN.md
+          - 课程_08 舵机: Micro_bit_Starter_Kit_Lesson_08_Servo_CN.md
+          - 课程_09 蜂鸣器: Micro_bit_Starter_Kit_Lesson_09_Buzzer_CN.md
+          - 课程_10 电机: Micro_bit_Starter_Kit_Lesson_10_Motor_CN.md
+          - 课程_11 七彩灯环: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED_CN.md
+          - 课程_12 加速度计: Micro_bit_Starter_Kit_Lesson_12_Accelerometer_CN.md
+          - 课程_13 指南针: Micro_bit_Starter_Kit_Lesson_13_Compass_CN.md
+          - 课程_14 环境光: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light_CN.md
+     - Micro:bit 小小发明家套件: 
+          - Micro:bit 小小发明家套件: Micro_bit_Tinker_Kit.md
+          - 音乐播放器: Micro_bit_Tinker_Kit_Case_01_Music_Machine_CN.md
+          - 智能灯: Micro_bit_Tinker_Kit_Case_02_Smart_Light_CN.md
+          - 电子琴: Micro_bit_Tinker_Kit_Case_03_Electro_Theremin_CN.md
+          - 报警装置: Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box_CN.md
+          - 土壤湿度检测: Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device_CN.md
+          - 入侵检测: Micro_bit_Tinker_Kit_Case_06_Intruder_Detection_CN.md
+          - 喂鱼器: Micro_bit_Tinker_Kit_Case_07_Fish_Feeder_CN.md
+          - 运动检测: Micro_bit_Tinker_Kit_Case_08_Motion_Detector_CN.md
+          - 测谎仪: Micro_bit_Tinker_Kit_Case_09_Lie_Detector_CN.md
+          - 乒乓球游戏: Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM_CN.md
+          - 躲避小行星: Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids_CN.md
+          - 遥控小车: Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything_CN.md
+          - micro:bit小车: Micro_bit_Tinker_Kit_Case_13_Micro_Bit_Car_CN.md
+          - 抛煎饼游戏: Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes_CN.md
+          - 跑迷宫游戏: Micro_bit_Tinker_Kit_Case_15_Maze_Runner_CN.md
+          - 速算游戏: Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS_CN.md
+          - 猜音调游戏: Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect_CN.md
+          - 手指灵敏度游戏: Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity_CN.md
+          - 电子水平仪: Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level_CN.md
+          - 太空射击游戏: Micro_bit_Tinker_Kit_Case_20_Space_Shooter_CN.md
+          - 飞行的小鸟游戏: Micro_bit_Tinker_Kit_Case_21_Flappy_Bird_CN.md
+          - 摩尔斯代码信息传输: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission_CN.md
+          - 贪吃蛇游戏: Micro_bit_Tinker_Kit_Case_23_Snake_Game_CN.md
           
           
-     - Micro:bit Board with Battery Holder kit: 
-          - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
-     - Ring:bit Car Kit: 
-          - Ring:bit Car Kit: Ring_bit_Car_Kit.md
-          - Case_01 Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
-          - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
-          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
-          - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
+     - Micro:bit 带电池盒套件: 
+          - Micro:bit 带电池盒套件: Micro_bit_Board_with_Battery_Holder_kit.md
+     - Ring:bit 小车套件: 
+          - Ring:bit 小车套件: Ring_bit_Car_Kit.md
+          - 案例_01 添加代码库: Ring_bit_Car_Kit_Case_01_Add_Package_CN.md
+          - 案例_02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
+          - 案例_03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
+          - 案例_04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
           
-  - Micro:bitAccessories:
-    - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
-    - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
-    - Micro:case: Micro_case.md
-    - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
+  - Micro:bit套件:
+    - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
+    - 2xAA 有盖带开关电池盒: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
+    - micro:bit外壳: Micro_case.md
+    - micro:bit外壳带AA电池盒: Acrylic_Case_with_Two_AA_Battery_Holder.md
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
