@@ -1,2 +1,2 @@
 # learn-en
-ElecFreaks Learn CN
+ElecFreaks Learn CNhaha
