@@ -8,8 +8,8 @@
 ## 使用材料
 ---
 
-1 x [micro:bit迷你小车套件](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)
-2 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 1 x [micro:bit迷你小车套件](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)
+- 2 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
 
 
 ## 组装
@@ -48,3 +48,15 @@ micro:bit迷你小车组装过程请参见产品包装中的说明书。
 ---
 
 按按钮A，小车左转，按按钮B小车右转，按钮A、B同时按下，小车前进，摇晃micro:bit主板，小车后退。
+
+
+## 常见问题
+---
+
+
+## 相关阅读  
+---
+
+[案例_01 添加代码库](/Ring_bit_Car_Kit_Case_01_Add_Package_CN/)   
+[案例_02 折线行走](/Ring_bit_Car_Kit_Case_02_S_Walk_CN/)  
+[案例_03 画圆](/Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN/)   

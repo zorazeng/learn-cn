@@ -8,10 +8,11 @@
 ## 使用材料
 ---
 
-1 x [micro:bit迷你小车套件](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)
-1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
-3 x AA电池
-1 x 画笔
+- 1 x [micro:bit迷你小车套件](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)
+- 1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 3 x AA电池
+- 1 x 画笔
+
 
 ## 组装
 ---
@@ -42,3 +43,14 @@ micro:bit迷你小车组装过程请参见产品包装中的说明书。
 
 如何让迷你小车按照正方形路径行驶？
 
+
+## 常见问题
+---
+
+
+## 相关阅读  
+---
+
+[案例_01 添加代码库](/Ring_bit_Car_Kit_Case_01_Add_Package_CN/)  
+[案例_02 折线行走](/Ring_bit_Car_Kit_Case_02_S_Walk_CN/)  
+[案例_04 无线遥控](/Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN/)    
