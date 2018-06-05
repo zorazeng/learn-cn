@@ -117,6 +117,7 @@ DigitalWrite积木块可以让你开启或者关闭一个引脚。它有一个�
 ## 相关阅读
 ---
 
+
 [Micro:bit小小科学家课程02:按钮](/Micro_bit_Starter_Kit_Lesson_02_Button_CN/)    
 [Micro:bit小小科学家课程03:电位器](/Micro_bit_Starter_Kit_Lesson_03_Trimpot_CN/)    
 [Micro:bit小小科学家课程04:光敏电阻](/Micro_bit_Starter_Kit_Lesson_04_Photocell_CN/)    
@@ -130,6 +131,5 @@ DigitalWrite积木块可以让你开启或者关闭一个引脚。它有一个�
 [Micro:bit小小科学家课程12:加速度计](/Micro_bit_Starter_Kit_Lesson_12_Accelerometer_CN/)    
 [Micro:bit小小科学家课程13:指南针](/Micro_bit_Starter_Kit_Lesson_13_Compass_CN/)    
 [Micro:bit小小科学家课程14:环境光](/Micro_bit_Starter_Kit_Lesson_14_Ambient_Light_CN/)    
-
 
 
