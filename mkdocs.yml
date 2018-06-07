@@ -100,6 +100,7 @@ pages:
     - 钮扣电池扩展板: Power_bit_CN.md
     - 3路IO扩展板: Ring_bit_CN.md
     - 3路IO基础扩展板: Basic_bit_CN.md
+    - Robit: Robit_CN.md
     - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
   - Micro:bit 套件:
