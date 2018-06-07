@@ -4,9 +4,6 @@ Robit是基于micro:bit的一个智能小车主板，它能完全兼容MBOT，�
 
 ![](https://i.imgur.com/ybkfOnk.jpg)
 
-## 包装清单
-
-1 x Robit
 
 ## 特性
 
