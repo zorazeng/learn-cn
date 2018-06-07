@@ -94,12 +94,13 @@ pages:
 
   - Micro:bit 模组:
     - BBC Micro:bit: Micro_bit_Board.md
-    - 面包板扩展板: Micro_bit_Breadboard_Adapter.md
-    - 八爪鱼扩展板: Octopus_bit.md
-    - 两路电机驱动板: Motor_bit.md
-    - 钮扣电池扩展板: Power_bit.md
-    - 3路IO扩展板: Ring_bit.md
-    - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A.md
+    - 面包板扩展板: Micro_bit_Breadboard_Adapter_CN.md
+    - 八爪鱼扩展板: Octopus_bit_CN.md
+    - 两路电机驱动板: Motor_bit_CN.md
+    - 钮扣电池扩展板: Power_bit_CN.md
+    - 3路IO扩展板: Ring_bit_CN.md
+    - 3路IO基础扩展板: Basic_bit_CN.md
+    - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
   - Micro:bit 套件:
      - Micro:bit 小小科学家套件:
