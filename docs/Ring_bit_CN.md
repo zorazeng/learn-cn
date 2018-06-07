@@ -1,5 +1,5 @@
 ## Introduction
-Ring:bit is # Introduction
+
 Ring:bit is a simple module based on micro:bit. It can lead out 3 IO connectors, power connectors, ground connectors on the micro:bit board. On this module, we have transformed P0/P1/P2 into general connectors for GVS electric bricks. Among them, we have extended P2 to a GVS connector with multiple usages. There is a slide switch on the board. Slide the switch to “S”, then you can connect SR and SL2(digital signal modules) at the same time. Slide to “P2”, you can connect digital module or simulating module but only one of them. This module adopts 3 No. 7 batteries for power supply. It is very simple, easy and practical to use. With this module, you can drive all kinds of GVS modules like servos, line-hunting modules and LED modules.
 
 ![](https://i.imgur.com/bDMpSsj.png)
