@@ -86,22 +86,22 @@ STEP1与STEP2，最多可同时接入两路28BYJ-48-5V步进电机。
 板载蜂鸣器，连接在micro:bit的P0口。
 
 #### 光线传感器
+  
+![](https://i.imgur.com/GxtT0KK.png)  
 
-![](https://i.imgur.com/GxtT0KK.png)
+板载光线传感器，连接在micro:bit的P10口。  
 
-板载光线传感器，连接在micro:bit的P10口。
+#### 红外发射管  
 
-#### 红外发射管
+![](https://i.imgur.com/iMOf8lZ.png)  
 
-![](https://i.imgur.com/iMOf8lZ.png)
-
-板载红外发射管，连接在micro:bit的P6口。
+板载红外发射管，连接在micro:bit的P6口。  
 
 #### 红外接收管
 
-![](https://i.imgur.com/uw7fE9k.png)
+![](https://i.imgur.com/uw7fE9k.png)  
 
-板载红外接收管，连接在micro:bit的P8口。
+板载红外接收管，连接在micro:bit的P8口。 
 
 #### 彩虹LED
 
@@ -109,38 +109,38 @@ STEP1与STEP2，最多可同时接入两路28BYJ-48-5V步进电机。
 
 板载两颗彩虹LED，连接在micro:bit的P12。
 
-#### DC电源接口
+#### DC电源接口  
 
-![](https://i.imgur.com/5hUXn0Y.png)
+![](https://i.imgur.com/5hUXn0Y.png)  
 
-DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒。
+DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒。  
 
-#### 锂电池接口
+#### 锂电池接口  
 
-![](https://i.imgur.com/CX1F1jI.png)
+![](https://i.imgur.com/CX1F1jI.png)  
 
-锂电池接口，可支持3.7V~4.2V锂电池。
+锂电池接口，可支持3.7V~4.2V锂电池。  
 
-#### 锂电池电量指示灯
+#### 锂电池电量指示灯  
 
-![](https://i.imgur.com/86v4GeD.png)
+![](https://i.imgur.com/86v4GeD.png)  
 
-锂电池电量指示灯，为闪烁状态，满电为4格电，闪烁一次表示1格电，满电为连续闪烁4次。
+锂电池电量指示灯，为闪烁状态，满电为4格电，闪烁一次表示1格电，满电为连续闪烁4次。  
 
-#### USB充电接口
+#### USB充电接口  
 
-![](https://i.imgur.com/9xSHrjg.png)
+![](https://i.imgur.com/9xSHrjg.png)  
 
-该USB接口仅用于为锂电池充电，不支持数据传输，充电电流为500mA。
+该USB接口仅用于为锂电池充电，不支持数据传输，充电电流为500mA。  
 
-## 快速上手
-### 硬件连接
-将robit固定在mbot小车上；
-将左轮电机接入M1口，将右轮电机接入M2口；
-将巡线模块接入J1口。连接好后如图所示：
-![](https://i.imgur.com/sVvkB7S.jpg)
+## 快速上手  
+### 硬件连接  
+将robit固定在mbot小车上；  
+将左轮电机接入M1口，将右轮电机接入M2口；  
+将巡线模块接入J1口。连接好后如图所示：  
+![](https://i.imgur.com/sVvkB7S.jpg)  
 
-### 软件编程
+### 软件编程  
 打开[makecode](https://makecode.microbit.org/)，搜索关键词`robit`添加robit package。
 
 ![](https://i.imgur.com/C0LxMkP.png)
