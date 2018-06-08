@@ -92,8 +92,10 @@ markdown_extensions:
 pages:
   - 一站式micro:bit学习平台: 'index.md'
 
-  - Micro:bit 模组:
+  - Micro:bit 快速入门:
     - BBC Micro:bit: Micro_bit_Board.md
+
+  - Micro:bit 模组:
     - 面包板扩展板: Micro_bit_Breadboard_Adapter_CN.md
     - 八爪鱼扩展板: Octopus_bit_CN.md
     - 两路电机驱动板: Motor_bit_CN.md
