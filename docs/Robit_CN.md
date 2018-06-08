@@ -141,7 +141,7 @@ DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒�
 ### 硬件连接  
 将robit固定在mbot小车上；  
 将左轮电机接入M1口，将右轮电机接入M2口；  
-将巡线模块接入J1口。连接好后如图所示：  
+连接好后如图所示：  
 ![](https://i.imgur.com/sVvkB7S.jpg)  
 
 ### 软件编程  
@@ -158,6 +158,9 @@ DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒�
 你也能通过下列窗口直接下载代码：
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aXVAyx3dm585" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+### 结果
+robit小车先前进3秒，再后退3秒，往返运行。
 
 
 ## 文档
