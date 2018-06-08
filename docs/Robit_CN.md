@@ -53,10 +53,10 @@ USB充电电流|500mA
 ![](https://i.imgur.com/AiRvd9b.png)
 
 robit有4组RJ25接口，每个RJ25接口包含6个出点，分别对应了电源、两个IO口与IIC接口，兼容MBOT部分传感器。  
-J1的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P13、P14。  
-J2的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P15、P16。  
-J3的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P1、P2，支持5V的模拟输入传感器。  
-J4的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P3、P4，支持5V的模拟输入传感器。  
+J1的6个触点分别对应micro:bit的SCL(P19)、SDA(P20)、GND、5V、P13、P14。  
+J2的6个触点分别对应micro:bit的SCL(P19)、SDA(P20)、GND、5V、P15、P16。  
+J3的6个触点分别对应micro:bit的SCL(P19)、SDA(P20)、GND、5V、P1、P2，支持5V的模拟输入传感器。  
+J4的6个触点分别对应micro:bit的SCL(P19)、SDA(P20)、GND、5V、P3、P4，支持5V的模拟输入传感器。  
 
 ### GVS标准电子积木接口
 
