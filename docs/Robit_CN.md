@@ -41,11 +41,14 @@ USB充电电流|500mA
 ![](https://i.imgur.com/DHJWwCU.png)
 
 ## 引脚接口框图
+---
 
 ![](https://i.imgur.com/4ZNLceA.png)
 
-### 主要功能模块介绍
-#### RJ25接口
+## 主要功能模块介绍
+---
+
+### RJ25接口
 
 ![](https://i.imgur.com/AiRvd9b.png)
 
@@ -55,79 +58,79 @@ J2的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P15、P16。
 J3的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P1、P2，支持5V的模拟输入传感器。
 J4的6个触电对应SCL(P19)、SDA(P20)、GND、5V、P3、P4，支持5V的模拟输入传感器。
 
-#### GVS标准电子积木接口
+### GVS标准电子积木接口
 
 ![](https://i.imgur.com/EX5gFN0.png)
 
 micro:bit的IO口除了引出至RJ25接口外，还以GVS的形式引出，支持5V的器件，其中P1、P2、P3、P4支持5V的模拟输入传感器。
 
-#### GVS标准舵机接口
+### GVS标准舵机接口
 
 ![](https://i.imgur.com/q60J0FD.png)
 
 S0~S7，最多可同时接入8路舵机。该接口从PCA9685芯片引出，通过micro:bit的IIC接口扩展而来，不占用普通I/O口。
 
-#### 直流电机接口
+### 直流电机接口
 
 ![](https://i.imgur.com/foGr3ds.png)
 
 M1~M4，最多可同时接入4路直流电机。该接口从PCA9685芯片引出，通过micro:bit的IIC接口扩展而来，不占用普通I/O口。
 
-#### 步进电机接口
+### 步进电机接口
 
 ![](https://i.imgur.com/SgFEXhW.png)
 
 STEP1与STEP2，最多可同时接入两路28BYJ-48-5V步进电机。
 
-#### 蜂鸣器
+### 蜂鸣器
 
 ![](https://i.imgur.com/OJuywhz.png)
 
 板载蜂鸣器，连接在micro:bit的P0口。
 
-#### 光线传感器
+### 光线传感器
   
 ![](https://i.imgur.com/GxtT0KK.png)  
 
 板载光线传感器，连接在micro:bit的P10口。  
 
-#### 红外发射管  
+### 红外发射管  
 
 ![](https://i.imgur.com/iMOf8lZ.png)  
 
 板载红外发射管，连接在micro:bit的P6口。  
 
-#### 红外接收管
+### 红外接收管
 
 ![](https://i.imgur.com/uw7fE9k.png)  
 
 板载红外接收管，连接在micro:bit的P8口。 
 
-#### 彩虹LED
+### 彩虹LED
 
 ![](https://i.imgur.com/aANe5pE.png)
 
 板载两颗彩虹LED，连接在micro:bit的P12。
 
-#### DC电源接口  
+### DC电源接口  
 
 ![](https://i.imgur.com/5hUXn0Y.png)  
 
 DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒。  
 
-#### 锂电池接口  
+### 锂电池接口  
 
 ![](https://i.imgur.com/CX1F1jI.png)  
 
 锂电池接口，可支持3.7V~4.2V锂电池。  
 
-#### 锂电池电量指示灯  
+### 锂电池电量指示灯  
 
 ![](https://i.imgur.com/86v4GeD.png)  
 
 锂电池电量指示灯，为闪烁状态，满电为4格电，闪烁一次表示1格电，满电为连续闪烁4次。  
 
-#### USB充电接口  
+### USB充电接口  
 
 ![](https://i.imgur.com/9xSHrjg.png)  
 
@@ -159,7 +162,7 @@ DC电源接口，可支持3.7V~4.2V直流电源，通常接入4节AAA电池盒�
 
 ## 文档
 ---
-[WIKI](https://github.com/elecfreaks/learn-cn/blob/master/docs/Basic_bit_CN.md)
+[WIKI](https://github.com/elecfreaks/learn-cn)
 
 ## 常见问题
 ---
