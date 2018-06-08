@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 'ElecFreaks Learn-cn'
+site_name: '一站式micro:bit学习平台'
 site_description: 'ElecFreaks Product Document'
 site_author: 'Will'
 site_url: 'https://www.elecfreaks.com/learn-cn/'
@@ -90,7 +90,7 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - 一站式micro:bit学习平台: 'index.md'
+  - 欢迎来到micro:bit知识库: 'index.md'
 
   - Micro:bit 快速入门:
     - BBC Micro:bit: Micro_bit_Board.md
