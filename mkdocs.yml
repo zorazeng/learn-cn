@@ -90,7 +90,7 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - micro:bit一站式学习平台: 'index.md'
+  - 一站式micro:bit学习平台: 'index.md'
 
   - Micro:bit 模组:
     - BBC Micro:bit: Micro_bit_Board.md
