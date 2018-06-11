@@ -1,6 +1,6 @@
 ## 简介  
 ---
-motor:bit亚克力车架是为motor:bit量身打造的小车底盘，它包含两个TT马达与一个4节AAA电池盒，可使用它DIY一款micro:bit智能小车。
+motor:bit亚克力小车底盘是为motor:bit量身打造的小车底盘，它包含两个TT马达与一个4节AAA电池盒，可使用它DIY一款micro:bit智能小车。
 
 ## 特性
 ---
