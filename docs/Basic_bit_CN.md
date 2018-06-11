@@ -52,7 +52,8 @@ basic:bit是micro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2�
 
 ### 示例代码
 
-程序链接：https://makecode.microbit.org/_AvW79jCcU2XA
+程序链接：https://makecode.microbit.org/_AvW79jCcU2XA  
+
 你也能通过以下页面直接下载该程序。
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AvW79jCcU2XA" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
