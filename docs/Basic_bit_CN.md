@@ -1,7 +1,7 @@
 ## 简介
 ---
 
-basic:bit是bicro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2三组GVS排针。它体积小巧、结构简单，足够完成98%以上的micro:bit案例。
+basic:bit是micro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2三组GVS排针。它体积小巧、结构简单，足够完成98%以上的micro:bit案例。
 
 
 ## 特性
