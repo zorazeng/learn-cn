@@ -163,6 +163,7 @@ pages:
     - 2xAA 有盖带开关电池盒: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - micro:bit外壳: Micro_case_CN.md
     - micro:bit外壳带AA电池盒: Acrylic_Case_with_Two_AA_Battery_Holder.md
+    - Motor:bit小车底盘: Smart_Car_Chassis_for_motor_bit.md 
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
