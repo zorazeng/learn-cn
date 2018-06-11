@@ -78,7 +78,7 @@
 
 旋转定位器，电压的数值将会以柱形图的形式显示在micro:bit的5x5的LED屏幕上。当读取的电压为“0”，LED屏幕上只显示一个像素点。当电压变成3.3V的时候，LED屏幕将会被全部点亮。 
 
-<p style="text-align: center;"><span style="color: red; font-size: 12pt;"><span style="font-family: Arial;"><img class="aligncenter size-full wp-image-9882" src="https://www.elecfreaks.com/wp-content/uploads/2017/09/1.gif" alt="1" width="400" height="267" />
+![](https://i.imgur.com/PuHveru.gif)
 
 
 ## 思考
