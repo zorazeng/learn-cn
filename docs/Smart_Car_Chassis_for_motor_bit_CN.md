@@ -21,7 +21,9 @@ motor:bit亚克力车架是为[motor:bit](https://item.taobao.com/item.htm?spm=a
 净重|210g
 尺寸|146mmx124mmx71mm
 
-### 成品尺寸
+### 尺寸图
+![](https://i.imgur.com/uTLtMUm.png)
+
 
 ## 零件清单
 ---
@@ -50,10 +52,14 @@ M3x5内六角螺丝|20|备用2颗
 ![](https://i.imgur.com/uWQiPkr.png)
 
 ### 组装爆炸图
-![](https://i.imgur.com/MkGwVyF.png)
+![](https://i.imgur.com/i1wTisS.png)
 
 ### 完成示意图
 ![](https://i.imgur.com/UoYL3VX.png)
+
+**注意：该产品不包含[motor:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.12.31ee3f94AtDcaJ&id=564916191336)与[micro:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.6.7bfe3f94OLDNXb&id=562621059348)，请另行采购**
+
+### 
 
 ## 文档
 ---
