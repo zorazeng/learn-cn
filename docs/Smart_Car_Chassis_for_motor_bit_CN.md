@@ -19,7 +19,7 @@ motor:bit亚克力车架是为[motor:bit](https://item.taobao.com/item.htm?spm=a
 驱动轮数目|2
 电池盒|4节5号电池盒
 净重|210g
-尺寸|146mmx124mmx71mm
+组装后尺寸|146mmx124mmx71mm
 
 ### 尺寸图
 ![](https://i.imgur.com/uTLtMUm.png)
