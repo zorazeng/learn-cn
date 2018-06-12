@@ -21,7 +21,7 @@ motor:bit亚克力车架是为[motor:bit](https://item.taobao.com/item.htm?spm=a
 净重|210g
 组装后尺寸|146mmx124mmx71mm
 
-### 尺寸图
+### 组装后尺寸图
 ![](https://i.imgur.com/uTLtMUm.png)
 
 
