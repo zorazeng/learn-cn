@@ -54,10 +54,12 @@ M3x5内六角螺丝|20|备用2颗
 ### 组装爆炸图
 ![](https://i.imgur.com/i1wTisS.png)
 
-### 完成示意图
+### 成品示意图
 ![](https://i.imgur.com/UoYL3VX.png)
 
-**注意：该产品不包含[motor:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.12.31ee3f94AtDcaJ&id=564916191336)与[micro:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.6.7bfe3f94OLDNXb&id=562621059348)，请另行采购**
+![](https://i.imgur.com/vPsM3oe.jpg)
+
+**注意：图片仅为组装示意图，该产品不包含[motor:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.12.31ee3f94AtDcaJ&id=564916191336)、[micro:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16134010685.6.7bfe3f94OLDNXb&id=562621059348)、舵机，请另行采购**
 
 ### 
 
