@@ -4,7 +4,7 @@ motor:bit亚克力车架是为[motor:bit](https://item.taobao.com/item.htm?spm=a
 
 ## 特性
 ---
-- 体积小巧
+- 体积小巧，结构紧凑
 - 预留舵机与巡线模块安装孔位
 - 预留传感器安装接口
 
