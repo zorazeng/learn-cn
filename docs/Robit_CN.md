@@ -22,6 +22,9 @@ edge:bit是用于保护micro:bit金手指的扩展板。micro:bit特殊的金手
 尺寸|59mm x 27mm x 12mm
 净重|10g
 
+## 文档
+---
+
 
 
 
