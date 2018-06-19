@@ -40,7 +40,7 @@
 
 ![](https://i.imgur.com/LjMR5IU.png)
 
-为了给超声波模块编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“Robit"，然后点击下载这个代码库。
+为了给超声波模块编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Robit`，然后点击下载这个代码库。
 
 ![](https://i.imgur.com/ISZ6w26.png)
 
@@ -48,7 +48,7 @@
 
 ### 步骤 2
 
-在Basic中拖出一个forever积木块，在其中插入show number积木块。
+在`Basic`中拖出一个`forever`积木块，在其中插入`show number`积木块。
 
 在Robit中拖出Ultrasonic pin积木块，选择J1(P13,P14)。这条语句作用为读取超声波模块返回参数。
 ![](https://i.imgur.com/hwrw0c8.png)
@@ -60,7 +60,7 @@
 你也可以通过以下网页直接下载程序。
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3ktFD2gabF7J" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 **注意：** 该超声波模块检测的最大距离大约为400cm。
 
 ## 结果
