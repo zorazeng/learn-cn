@@ -102,7 +102,8 @@ pages:
     - 钮扣电池扩展板: Power_bit_CN.md
     - 3路IO扩展板: Ring_bit_CN.md
     - 3路IO基础扩展板: Basic_bit_CN.md
-    - Robit: Robit_CN.md
+    - Robit: 
+          - Robit主板介绍: Robit_CN.md
           - 案例01：超声波测距: Robit_Case_01.md
           - 案例02：超声波避障: Robit_Case_02.md
     - 金手指扩展板(edge:bit): edge_bit_CN.md
