@@ -20,7 +20,8 @@
 
 ![](https://i.imgur.com/foGr3ds.png)
 
-![](https://i.imgur.com/rnrjpYv.jpg)
+![](https://i.imgur.com/dVr2oEr.jpg)
+
 ## 软件
 ---
 [微软makecode](https://makecode.microbit.org/#)
