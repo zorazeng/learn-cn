@@ -98,6 +98,8 @@ pages:
   - Micro:bit 模组:
     - 面包板扩展板: Micro_bit_Breadboard_Adapter_CN.md
     - 八爪鱼扩展板: Octopus_bit_CN.md
+    - 3V传感器扩展板: 
+          - sensor:bit主板介绍: Sensor_bit.md
     - 两路电机驱动板: Motor_bit_CN.md
     - 钮扣电池扩展板: Power_bit_CN.md
     - 3路IO扩展板: Ring_bit_CN.md
