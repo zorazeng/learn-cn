@@ -52,16 +52,16 @@ basic:bit是micro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2�
 
 ### 示例代码
 
-程序链接：https://makecode.microbit.org/_AvW79jCcU2XA  
+程序链接：https://makecode.microbit.org/_TWuPw3eE8eEE
 
 你也能通过以下页面直接下载该程序。
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AvW79jCcU2XA" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_TWuPw3eE8eEE" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ### 显示效果
 
-将以上代码保存到micro:bit上后，蜂鸣器开始循环播放铃声。同时，Octopus LED模块上的LED灯间隔一秒亮灭。
+将以上代码保存到micro:bit上后，按下按钮A，蜂鸣器开始循环播放铃声，同时Octopus LED模块上的LED灯间隔一秒闪烁。
 
 
 ## 文档
