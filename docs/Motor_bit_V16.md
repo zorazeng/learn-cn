@@ -113,7 +113,7 @@ G-3V3-S标准GVS电子积木接口，可以直接接入8路工作在3.3V电源�
 [wiki](https://github.com/elecfreaks/learn-en)
 
 ### 历史版本
-[motorbit v1.4]()
+[motorbit v1.4]((/Motor_bit_V14/))
 
 ## 常见问题
 ---
