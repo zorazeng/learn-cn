@@ -68,7 +68,6 @@
 ---
 
 ### 现象
----
 LED循环显示颜色。
 
 ![](https://i.imgur.com/9KOWt1T.gif)
