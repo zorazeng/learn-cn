@@ -1,115 +1,139 @@
-## Introduction
+## 简介  
+---
 
-ELECFREAKS Octopus:bit is a kind of breakout boards for micro:bit. It can lead out GPIO port, serial port, IIC port, and SPI port on the micro:bit board. The biggest feature of Octopus:bit is that it can switch electric level for some GPIO ports, which makes micro:bit available to be adapted to 5V sensors.
+ELECFREAKS Octopus:bit是一款micro:bit的扩展板。它扩展出了micro:bit的GPIO口、串口、IIC接口、SPI接口。它最大的特点是可对部分GPIO口的工作电压进行电平转换，使micro:bit能适配5V的传感器。
 
-
-![1](https://www.elecfreaks.com/wp-content/uploads/2018/01/1_EN.png)
-
-
-## Hardware
-
-### Features
-
-- Input voltage: 3.3V（powered by the edge connector of micro:bit）
-- Extend all of GPIO ports(P0~P16, P19~P20).
-- Beneath each I/O port, there are pins for VCC and GND. These pins are differentiated by different colors, which enable you to connect your extension module easily. The spread of pins is fully compatible with Octopus series' products.  
-- With a voltage boosting module, you can shift the working voltage of P8, P9, P11~P16 between 3.3V and 5V through the voltage switch. 
-- When the voltage switch is at the end of 3.3V, the max current of octopus:bit depends on its power method. When powered by USB port, the output current is 90mA; when powered by PH2.0 battery port, the output current depends on the battery power ability. 
-- When the voltage switch is at the end of 5V, the maximum output current of 5V part is 500mA.
-- Lead out serial port, I2C port and SPI port, among which I2C can connect 3 channels of I2C devices and SPI can connect 2 channels of SPI devices. 
-- Available for direct serial port communication between two breakout boards. 
+![](https://i.imgur.com/wcgxnG0.png)
 
 
-### Application
+## 包装清单  
+---
 
-It is suitable for all conditions that require micro:bit GPIO such as programming education, smart device creation, and so on.  
-
-### Pins & Connectors
-
-![2](https://www.elecfreaks.com/wp-content/uploads/2018/01/2-2.jpg)
+1 x ELECFREAKS Octopus:bit  
 
 
-### More Details 
-#### Standard GVS Port 
+## 硬件  
+---
 
-![3](https://www.elecfreaks.com/wp-content/uploads/2018/01/3-2.png)
+### 特点  
 
-Among the standard GVS ports, the working voltage of the yellow part（P0~P7， P10）is 3.3V, while the working voltage of the blue part（P8, P9, P11~P16）can be shifted between 3.3V and 5V through a voltage switch. 
-Beneath each I/O port, there are pins for VCC and GND. These pins are differentiated by different colors, which enable you to connect your extension module easily. The spread of pins is fully compatible with Octopus series' products.
-
-#### Voltage Switch 
-
-![4](https://www.elecfreaks.com/wp-content/uploads/2018/01/4-1.png)
-
-Sliding this switch, we can change the voltage of the blue IO ports（P8, P9, P11~P16）between 3.3V and 5V.
-
-You can see its working range in the below: 
-
-![5](https://www.elecfreaks.com/wp-content/uploads/2018/01/5-1.png)
-
-#### Serial Port
-
-![6](https://www.elecfreaks.com/wp-content/uploads/2018/01/6.png)
-
-The working voltage of serial port is available to be shifted between 3.3V and 5V through the voltage switch. 
-Redirect TX to P8，RX to P12. The left pins are bidirectional serial port, which can run both input and output. The right female header is a one-way output serial port. 
-**Note** : To use this port, we have to initialize it according to the program in the below: 
-
-![7](https://www.elecfreaks.com/wp-content/uploads/2018/01/7-1.png)
+- 输入电压3.3V（通过micro:bit边缘连接器供电）  
+- 扩展了从P0至P16的PGIO口。  
+- 每个I/O口下方都有VCC与GND的排针，并且用不同的颜色区分开来，用你可以很方便的连接你的扩展模块，该针脚的排布与章鱼系列完全兼容。  
+- 具备升压模块，P8、P9、P11~P16的工作电平可通过电平转换开关在3.3V与5V之间切换。  
+- 引出了串口、I2C接口与SPI接口，其中，I2C接口可以接3路I2C设备，SPI接口可以接两路SPI设备。  
+- 两块扩展板之间可直接对接进行串口通信。  
 
 
-### Dimension 
+## 应用  
+---
 
-![8](https://www.elecfreaks.com/wp-content/uploads/2018/01/8.jpg)
-
-
-## Software
-### Example 1 Music Broadcast
-#### Hardware Connection 
-Connect passive buzzer module to PO.
-
-![9](https://www.elecfreaks.com/wp-content/uploads/2018/01/9.jpg)
-
-#### Code Example  
-
-![10](https://www.elecfreaks.com/wp-content/uploads/2018/01/10-2.png)
-
-Code Link：[https://makecode.microbit.org/_fAmC3WERHdR2](https://makecode.microbit.org/_fAmC3WERHdR2)
-
-Download the whole program into your micro:bit, the buzzer will play Happy Birthday again and again in round.  
+适用于所有需要使用micro:bit GPIO的场景，如编程教育、制作智能设备等。  
 
 
-## Relative Cases 
+## 引脚接口框图  
+---
 
-[Intruder Detection](https://www.elecfreaks.com/9455.html)  
-[Fish Feeder](https://www.elecfreaks.com/9441.html)  
-[Plant Humidity Monitor](https://www.elecfreaks.com/9363.html)  
-[Burglar Alarm Device](https://www.elecfreaks.com/9572.html)   
-[Motion Detector](https://www.elecfreaks.com/9643.html)   
-[A Smart Light](https://www.elecfreaks.com/10089.html)  
-[Music Machine](https://www.elecfreaks.com/10250.html)   
-[Lie Detector](https://www.elecfreaks.com/10340.html)  
-[Avoide the Asteroids](https://www.elecfreaks.com/10475.html)  
-[Maze Runner](https://www.elecfreaks.com/11887.html)   
-[QUICK MATHS](https://www.elecfreaks.com/12250.html)  
-[Electro-Theremin](https://www.elecfreaks.com/11084.html)  
-[A Micro:bit Car](https://www.elecfreaks.com/11330.html)  
-[Flipping Pancakes](https://www.elecfreaks.com/11784.html)  
-[Micro:bit Game: Pitch Perfect](https://www.elecfreaks.com/12328.html)  
+![](https://i.imgur.com/wCWdoag.jpg)
 
 
-## Relative Components
+## 部分引脚接口详细介绍
+---
+
+### 标准GVS接口
+
+![](https://i.imgur.com/gk3dN4E.png)
+
+标准GVS接口，其中黄色部分（P0~P7， P10）工作电压为3.3V，蓝色部分（P8, P9, P11~P16）工作电压可通过电平转换开关在3.3V与5V之间切换。
+每个I/O口下方都有VCC与GND的排针，并且用不同的颜色区分开来，用你可以很方便的连接你的扩展模块，该针脚的排布与章鱼系列完全兼容。
+
+### 电平转换开关
+
+![](https://i.imgur.com/JoxT6k2.png)
+
+该开关可对蓝色部分IO口（P8, P9, P11~P16）的工作电平进行3.3V/5V切换。
+
+该开关的作用范围如下图所示：
+![](https://i.imgur.com/GHPffMl.png)
+
+### 串口
+
+![](https://i.imgur.com/8aVYsja.png)
+
+串口的工作电压可通过电平转换开关进行3.3V/5V切换。
+TX连接在P8，RX连接在P12，左边排针的部分为输入输出双向串口，右边排母为单向输出串口
+**注意** 要使用该串口，请先按照如下程序初始化串口：
+
+![](https://i.imgur.com/1gnuYd5.png)
+
+## 外形与安装定位尺寸
+---
+
+![](https://i.imgur.com/ZYrWREG.jpg)
 
 
-### [BBC micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+## 软件
+---
 
-[![13](https://www.elecfreaks.com/wp-content/uploads/2018/01/13.png)](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+## 示例1 播放音乐
+---
+
+### 硬件连接
+
+将无源蜂鸣器模块连接至PO口。
+
+![](https://i.imgur.com/Zc6ChwR.jpg)
+
+### 示例代码  
+
+![](https://i.imgur.com/0MBprkk.png)
+
+代码连接：[https://makecode.microbit.org/_fAmC3WERHdR2](https://makecode.microbit.org/_fAmC3WERHdR2)  
+
+下载完程序后，蜂鸣器将循环播放生日快乐歌。
 
 
-### [Octopus Bricks Series](http://www.elecfreaks.com/estore/octopus-bricks-sensor)
+## 相关案例  
+---  
 
-[![14](https://www.elecfreaks.com/wp-content/uploads/2018/01/14.png)](http://www.elecfreaks.com/estore/octopus-bricks-sensor)
+[Music Machine](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_01_Music_Machine/)  
+[Smart Light ](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_02_Smart_Light/)  
+[Electro-Theremin](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_03_Electro_Theremin/)  
+[Simple Alarm Box](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box/)  
+[Plant Monitoring Device](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device/)  
+[Intruder Detection](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_06_Intruder_Detection/)  
+[Fish Feeder](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_07_Fish_Feeder/)  
+[Motion Detector](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_08_Motion_Detector/)  
+[Lie Detector](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_09_Lie_Detector/)  
+[PADDLEBALLSUPERSMASHEM](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM/)  
+[Avoid Asteroids](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids/)  
+[Remote Control Everything ](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything/)  
+[micro:bit Car](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_13_Micro_bit_Car/)  
+[Flipping Pancakes](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes/)  
+[Maze Runner](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_15_Maze_Runner/)   
+[QUICK MATHS](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS/)  
+[Pitch Perfect](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect/)  
+[Finger Dexterity](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity/)  
+[Electric Spirit Level](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level/)   
+[Space Shooter](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_20_Space_Shooter/)  
+[Flappy Bird](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_21_Flappy_Bird/)  
+[Wire Transmission](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_22_Wire_Transmission/)  
+[Snake Game](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_23_Snake_Game/)  
 
-#### [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
 
-[![15](https://www.elecfreaks.com/wp-content/uploads/2018/01/15.jpg)](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
+## 相关配件
+---  
+
+### [BBC micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+
+[![](https://i.imgur.com/nKomLk2.png)](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+
+### [Octopus电子积木系列](http://www.elecfreaks.com/estore/octopus-bricks-sensor)  
+
+[![](https://i.imgur.com/m1Xdqvg.png)](http://www.elecfreaks.com/estore/octopus-bricks-sensor)  
+
+### [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)  
+
+[![](https://i.imgur.com/pkfhaWF.jpg)](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)  
+
+
