@@ -92,10 +92,22 @@ markdown_extensions:
 pages:
   - 欢迎来到micro:bit知识库: 'index.md'
 
-  - Micro:bit 快速入门:
-    - BBC Micro:bit: Micro_bit_Board.md
-
-  - Micro:bit 模组:
+  - micro:bit makecode系列教程:
+    - BBC micro:bit: Micro_bit_Board.md
+    
+  - micro:bit Python系列教程:
+    - 1 准备开始Micropython学习:
+          - 1.1 什么是Microbit: micropython1_1.md
+          - 1.2 什么是Python: micropython1_2.md
+          - 1.3 工具及环境: micropython1_3.md
+          - 1.4 小结: micropython1_4.md
+    - 2 第一个MicroPython案例
+          - 2.1 Hello world: micropython2_1.md
+          - 2.2 Python中的程序结构: micropython2_2.md
+          - 2.3 Python中的基础语法: micropython2_3.md
+          - 2.4 什么是API: micropython2_4.md
+          
+  - micro:bit 模组:
     - 面包板扩展板（breadboard:bit）: Micro_bit_Breadboard_Adapter_CN.md
     - 八爪鱼扩展板（octopus:bit）: Octopus_bit_CN.md
     - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
