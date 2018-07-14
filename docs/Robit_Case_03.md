@@ -65,6 +65,7 @@
 如果左右红外线传感器均未检测到，设置左右电机速度为15继续前进。
 
 ![](https://i.imgur.com/OCspxD3.png)
+
 ### 程序
 请参考程序连接：[https://makecode.microbit.org/_1mCg9TgVxJ5K](https://makecode.microbit.org/_1mCg9TgVxJ5K)
 
