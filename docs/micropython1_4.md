@@ -6,6 +6,5 @@
 - 本教材部分材料来自micro:bit官方网站：[https://microbit.org/zh-CN/](https://microbit.org/zh-CN/)
 - 本教材部分材料来自MicroPython官方网站：[http://microbit.org/zh-CN/guide/python/](http://microbit.org/zh-CN/guide/python/)
 
-<a href="https://www.elecfreaks.com/">
-<img border="0" src="https://i.imgur.com/RNOCi1W.png" />
-</a>
+[![](https://i.imgur.com/RNOCi1W.png)](https://shop69086944.taobao.com/?spm=a230r.7195193.1997079397.2.S0soLy)
+
