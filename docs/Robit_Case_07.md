@@ -37,7 +37,7 @@ Robit主板上的光线传感器为<u>环境光传感器</u>，以数字大小�
 
 ![](https://i.imgur.com/LjMR5IU.png)
 
-为了给巡迹模块编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“Robit"，然后点击下载这个代码库。
+为了给Robit编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索“Robit"，然后点击下载这个代码库。
 
 ![](https://i.imgur.com/ISZ6w26.png)
 
@@ -53,7 +53,7 @@ Robit主板上的光线传感器为<u>环境光传感器</u>，以数字大小�
 
 ![](https://i.imgur.com/FpjcKWz.png)
 
-如果不是，熄灭LED为黑色。
+如果item大于700，LED灯熄灭。
 
 ![](https://i.imgur.com/PWwcz3X.png)
 
@@ -70,7 +70,7 @@ Robit主板上的光线传感器为<u>环境光传感器</u>，以数字大小�
 ---
 
 ### 现象
-在环境光很强的时候，LED灯熄灭。当环境光暗下来之后LED点亮。
+当环境光很强，LED灯熄灭；当环境光很暗，LED点亮。
 
 ![](https://i.imgur.com/s9qiUGU.jpg)
 
