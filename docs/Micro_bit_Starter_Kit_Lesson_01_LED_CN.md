@@ -79,7 +79,7 @@ LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体
  
 你可以在下面这个页面中查看程序的完整代码。点击右上角的“编辑”，然后再点击“下载”将你的代码下载到micro:bit上。
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_ahjD3pXUk9ug" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aPtRppeup0E5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ## 代码解释：
