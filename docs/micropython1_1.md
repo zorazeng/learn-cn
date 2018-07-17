@@ -16,6 +16,6 @@
 
 #### 相关链接 ####
 
-- Micro：bit官方网站：[http://microbit.org/zh-CN/](http://microbit.org/zh-CN/)
+- micro:bit官方网站：[http://microbit.org/zh-CN/](http://microbit.org/zh-CN/)
 - 推荐购买地址：[淘宝@ELECFREAKS恩孚科技](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18602834180.16.12fa4205rD3nC3&id=565210317836)
 - 本教程推荐使用扩展板：[淘宝@ELECFREAKS恩孚科技](https://elecfreaks.taobao.com/?spm=2013.1.1000126.3.3d107e11Lk2lKX)
