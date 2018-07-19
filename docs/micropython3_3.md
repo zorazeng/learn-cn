@@ -17,15 +17,19 @@
 |`display.clear()`|清空屏幕。|
 
 ### microbit内置图像 ###
-- MicroPython中内置了很多有趣的图片，以点阵的显示显示。
-- 如下列表截取了一部分图片名称，如需获取完整列表请链接：[Micro:bit官方参考文档](http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html)
-
-
-Image.HEART : 爱心<br>
-Image.HEART_SMALL ：爱心（小）<br>
-Image.HAPPY ：开心<br>
-Image.SMILE ：微笑<br>
-Image.SAD ：难过<br>
-Image.YES ：对<br>
-Image.NO ：错<br>
-...... <br>
+- MicroPython中内置了很多有趣的图片，以点阵的方式显示。
+- 内置的所有图形如下图所示，其英文名为图像描述。
+| | | | | |
+| :------------: | :-----------: | :------------: | :-----------: | :------------: |
+|Image.HEART|Image.CLOCK12| Image.CLOCK11|Image.CLOCK10|Image.CLOCK9|
+|Image.CLOCK8|Image.CLOCK7| Image.CLOCK6|Image.CLOCK5|Image.CLOCK4|
+|Image.CLOCK3|Image.CLOCK2|Image.CLOCK1|Image.ARROW_N|Image.ARROW_NE|
+|Image.ARROW_E|Image.ARROW_SE|Image.ARROW_S|Image.ARROW_SW| Image.ARROW_W| 
+|Image.ARROW_NW|Image.TRIANGLE|Image.TRIANGLE_LEFT|Image.CHESSBOARD|Image.DIAMOND|
+|Image.DIAMOND_SMALL|Image.SQUARE|Image.SQUARE_SMALL|Image.RABBIT|Image.COW|
+|Image.MUSIC_CROTCHET|Image.MUSIC_QUAVER|Image.MUSIC_QUAVERS|Image.PITCHFORK|Image.XMAS|
+|Image.PACMAN|Image.TARGET|Image.TSHIRT|Image.ROLLERSKATE|Image.DUCK|
+|Image.HOUSE|Image.TORTOISE|Image.BUTTERFLY|Image.STICKFIGURE|Image.GHOST|
+|Image.SWORD|Image.GIRAFFE|Image.SKULL|Image.UMBRELLA|Image.SNAKE|
+|Image.HEART_SMALL |Image.HAPPY|Image.SMILE |Image.SAD |
+|Image.YES |Image.NO |
