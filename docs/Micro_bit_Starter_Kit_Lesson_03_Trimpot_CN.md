@@ -10,12 +10,12 @@
 ---
 
 ### 硬件：
-- 1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x micro:bit  
 - 1 x USB线  
-- 1 x [micro:bit面包板扩展板](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-- 1 x [面包板83 x 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x micro:bit面包板扩展板
+- 1 x 面包板83 x 55 mm
 - 1 x 10欧姆电位器  
-- 1 x [跳线](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 1 x 跳线
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4024-17803785896.2.18dc3f94XOgpWg&id=562837851877&scene=taobao_shop)。**
 
@@ -56,6 +56,8 @@
 
 打卡[Makecode在线编辑器](https://makecode.microbit.org/)，在代码编辑器中编写你的代码。建议你先自己尝试着去编程。
 
+程序完整代码的链接:[https://makecode.microbit.org/_XFPgfzd0Xi08](https://makecode.microbit.org/_XFPgfzd0Xi08)
+
 当然，你也可以通过下面这个链接下载程序的完整代码。只要点击右上角的“编辑”，然后再点击右下角的“下载”，你就可以将程序下载到你的micro:bit中。
 
 <div style="position: relative; height: 0; padding-bottom: 70%; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://makecode.microbit.org/#pub:_XFPgfzd0Xi08" width="300" height="150" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
@@ -78,7 +80,7 @@
 
 旋转定位器，电压的数值将会以柱形图的形式显示在micro:bit的5x5的LED屏幕上。当读取的电压为“0”，LED屏幕上只显示一个像素点。当电压变成3.3V的时候，LED屏幕将会被全部点亮。 
 
-<p style="text-align: center;"><span style="color: red; font-size: 12pt;"><span style="font-family: Arial;"><img class="aligncenter size-full wp-image-9882" src="https://www.elecfreaks.com/wp-content/uploads/2017/09/1.gif" alt="1" width="400" height="267" />
+![](https://i.imgur.com/D5VDTS5.gif)
 
 
 ## 思考
@@ -107,4 +109,11 @@
 [Micro:bit小小科学家课程12:加速度计](/Micro_bit_Starter_Kit_Lesson_12_Accelerometer_CN/)  
 [Micro:bit小小科学家课程13:指南针](/Micro_bit_Starter_Kit_Lesson_13_Compass_CN/)  
 [Micro:bit小小科学家课程14:环境光](/Micro_bit_Starter_Kit_Lesson_14_Ambient_Light_CN/)  
+
+
+## 更多信息，欢迎访问：
+---
+[micro:bit知识库地址](https://www.elecfreaks.com/learn-cn/)       
+micro:bit官方推荐供应商：[恩孚科技淘宝店](https://shop69086944.taobao.com/?spm=a230r.7195193.1997079397.2.RSthR0)    
+QQ技术交流群：570756726     
 
