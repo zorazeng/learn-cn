@@ -11,13 +11,13 @@ LED灯的应用非常广泛。在日常生活中，我们看到的大部分信�
 
 ### 硬件：
 
-- 1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x micro:bit
 - 1 x USB线  
-- 1 x [micro:bit面包板扩展板](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-- 1 x [面包板83x55mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x micro:bit面包板扩展板
+- 1 x 面包板83x55mm 
 - 2 x LED  
 - 2 x 100欧姆电阻  
-- 1 x [跳线](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 1 x 跳线
 
 **温馨提示：如果你需要以上所有元件，你可以购买我们的[Elecfreaks小小科学家套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4024-17803785896.2.18dc3f94XOgpWg&id=562837851877&scene=taobao_shop)。**
 
@@ -76,10 +76,12 @@ LED是Light Emitting Diode（发光二极管）的缩写。这是一种半导体
 打开[Makecode在线编辑器](https://makecode.microbit.org/)，在代码编辑区域编写以下代码。 
 
 ![](https://i.imgur.com/s5sUftj.jpg)
+
+程序的完整代码链接：[https://makecode.microbit.org/_5mX7DsegXVJq ](https://makecode.microbit.org/_5mX7DsegXVJq )
  
 你可以在下面这个页面中查看程序的完整代码。点击右上角的“编辑”，然后再点击“下载”将你的代码下载到micro:bit上。
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_ahjD3pXUk9ug" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5mX7DsegXVJq" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ## 代码解释：
@@ -131,5 +133,12 @@ DigitalWrite积木块可以让你开启或者关闭一个引脚。它有一个�
 [Micro:bit小小科学家课程12:加速度计](/Micro_bit_Starter_Kit_Lesson_12_Accelerometer_CN/)    
 [Micro:bit小小科学家课程13:指南针](/Micro_bit_Starter_Kit_Lesson_13_Compass_CN/)    
 [Micro:bit小小科学家课程14:环境光](/Micro_bit_Starter_Kit_Lesson_14_Ambient_Light_CN/)    
+
+## 更多信息，欢迎访问：
+---
+[micro:bit知识库地址](https://www.elecfreaks.com/learn-cn/)    
+micro:bit官方推荐供应商：[恩孚科技淘宝店](https://shop69086944.taobao.com/?spm=a230r.7195193.1997079397.2.RSthR0)  
+QQ技术交流群：570756726   
+
 
 
