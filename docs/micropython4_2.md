@@ -28,7 +28,7 @@ else：
 
 name = 'python'
 if name == 'python':					# 判断变量否为'python'
-	flag = True							# 条件成立时设置标志为真
+	flag = True					# 条件成立时设置标志为真
 	print 'welcome python'				# 并输出欢迎信息
 
 ```
@@ -38,11 +38,11 @@ if name == 'python':					# 判断变量否为'python'
 ```python
 name = 'python'
 if name == 'python':					# 判断变量否为'python',如果是执行以下代码
-	flag = True							# 条件成立时设置标志为真
+	flag = True					# 条件成立时设置标志为真
 	print 'welcome python'				# 并输出欢迎信息
-else									# 如果不是执行以下代码	
-	flag = False						# 条件不成立时设置标志位假
-	print 'name error'					# 并输出错误信息
+else							# 如果不是执行以下代码	
+	flag = False					# 条件不成立时设置标志位假
+	print 'name error'				# 并输出错误信息
 
 ```
 
@@ -64,18 +64,19 @@ else:
 ```
 示例如下：
 
-```
+```python
+
 num = 5     
 if num == 3:            # 判断num的值
-	print 'boss'        # 等于3为BOSS
-elif num == 2:			# 等于2为user
-	print 'user'		# 等于1为worker
+	print 'boss'	# 等于3为BOSS
+elif num == 2:		# 等于2为user
+	print 'user'	# 等于1为worker
 elif num == 1:
-	 print 'worker'		# 小于0为error
-elif num < 0:           # 值小于零时输出
+	 print 'worker'		
+elif num < 0:           # 值小于零时输出error
 	print 'error'
 else:					
-	print 'noting'     # 条件均不成立时输出
+	print 'noting'	# 条件均不成立时输出
 
 ```
 ***温馨提示***：`elif `等同于其他语言中的`else if`。
