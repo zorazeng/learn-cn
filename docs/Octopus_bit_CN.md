@@ -53,7 +53,7 @@ ELECFREAKS Octopus:bit是一款micro:bit的扩展板。它扩展出了micro:bit�
 
 该开关可对蓝色部分IO口（P8, P9, P11~P16）的工作电平进行3.3V/5V切换。
 
-该开关的作用范围如下图所示：
+该开关的作用范围如下图所示： 
 ![](https://i.imgur.com/GHPffMl.png)
 
 ### 串口

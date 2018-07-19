@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# 欢迎来到micro:bit知识库
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+![](https://i.imgur.com/LTOqQvh.jpg)
 
-## Commands
+## micro:bit视频简介
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+<embed src='http://player.youku.com/player.php/sid/XMzY5NDQwMTI0MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## English WIKI
+[English WIKI](https://www.elecfreaks.com/learn-en/)

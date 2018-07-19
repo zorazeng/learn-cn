@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 'ElecFreaks Learn-cn'
+site_name: '一站式micro:bit学习平台'
 site_description: 'ElecFreaks Product Document'
 site_author: 'Will'
 site_url: 'https://www.elecfreaks.com/learn-cn/'
@@ -90,16 +90,47 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - 学习: 'index.md'
+  - 欢迎来到micro:bit知识库: 'index.md'
 
-  - Micro:bit 模组:
-    - BBC Micro:bit: Micro_bit_Board.md
-    - 面包板扩展板: Micro_bit_Breadboard_Adapter_CN.md
-    - 八爪鱼扩展板: Octopus_bit_CN.md
-    - 两路电机驱动板: Motor_bit_CN.md
-    - 钮扣电池扩展板: Power_bit_CN.md
-    - 3路IO扩展板: Ring_bit_CN.md
-    - 3路IO基础扩展板: Basic_bit_CN.md
+  - makecode系列教程:
+    - BBC micro:bit: Micro_bit_Board.md
+    
+  - Python系列教程:
+    - 1 准备开始Micropython学习: 
+          - 1.1 什么是Microbit: micropython1_1.md
+          - 1.2 什么是Python: micropython1_2.md
+          - 1.3 工具及环境: micropython1_3.md
+          - 1.4 小结: micropython1_4.md
+    - 2 第一个MicroPython案例: 
+          - 2.1 Hello world: micropython2_1.md
+          - 2.2 Python中的程序结构: micropython2_2.md
+          - 2.3 Python中的基础语法: micropython2_3.md
+          - 2.4 什么是API: micropython2_4.md
+    - 3 LED点阵显示屏: 
+          - 3.1 Python中的数据类型和变量: micropython3_1.md
+          - 3.2 Python中的运算符: micropython3_2.md
+          - 3.3 显示屏的相关API: micropython3_3.md
+          - 3.4 演示案例: micropython3_4.md
+          - 3.5 课后练习: micropython3_5.md
+          
+  - micro:bit 模组:
+    - 面包板扩展板（breadboard:bit）: Micro_bit_Breadboard_Adapter_CN.md
+    - 5V传感器扩展板（octopus:bit）: Octopus_bit_CN.md
+    - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
+    - 两路电机驱动板（motor:bit）: Motor_bit_V16.md
+    - 钮扣电池扩展板（power:bit）: Power_bit_CN.md
+    - 3路IO带电池盒扩展板（ring:bit）: Ring_bit_CN.md
+    - 3路IO基础扩展板（basic:bit）: Basic_bit_CN.md
+    - mBot扩展版: 
+          - mBot扩展版介绍: Robit_CN.md
+          - 案例01：超声波测距: Robit_Case_01.md
+          - 案例02：超声波避障: Robit_Case_02.md
+          - 案例03：永不坠落的小车: Robit_Case_03.md
+          - 案例04：巡线: Robit_Case_04.md
+          - 案例05：倒车报警: Robit_Case_05.md
+          - 案例06：彩虹LED: Robit_Case_06.md
+          - 案例07：自动车灯: Robit_Case_07.md
+    - 金手指扩展板(edge:bit): edge_bit_CN.md
     - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
   - Micro:bit 套件:
@@ -149,17 +180,21 @@ pages:
      - Micro:bit 带电池盒套件: 
           - Micro:bit 带电池盒套件: Micro_bit_Board_with_Battery_Holder_kit.md
      - Ring:bit 小车套件: 
-          - Ring:bit 小车套件: Ring_bit_Car_Kit.md
+          - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
           - 案例_01 添加代码库: Ring_bit_Car_Kit_Case_01_Add_Package_CN.md
           - 案例_02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
           - 案例_03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
           - 案例_04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
           
-  - Micro:bit套件:
+  - Micro:bit 传感器与配件:
+    - 蓝色电位器电子积木: Octopus_Analog_Rotation_Brick_Blue.md
+    - 3线宽压超声波模块: sonar_bit.md
+    - 两路巡线模块电子积木: Tracking_Module.md
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA 有盖带开关电池盒: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
-    - micro:bit外壳: Micro_case.md
+    - micro:bit外壳: Micro_case_CN.md
     - micro:bit外壳带AA电池盒: Acrylic_Case_with_Two_AA_Battery_Holder.md
+    - Motor:bit小车底盘: Smart_Car_Chassis_for_motor_bit_CN.md 
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'

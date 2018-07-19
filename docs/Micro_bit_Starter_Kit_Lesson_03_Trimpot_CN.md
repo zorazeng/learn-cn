@@ -54,7 +54,7 @@
 ## 编程
 ---
 
-打卡[Makecode在线编辑器](https://makecode.microbit.org/)，在代码编辑器中编写你的代码。建议你先自己尝试着去编程。
+打开[Makecode在线编辑器](https://makecode.microbit.org/)，在代码编辑器中编写你的代码。建议你先自己尝试着去编程。
 
 程序完整代码的链接:[https://makecode.microbit.org/_XFPgfzd0Xi08](https://makecode.microbit.org/_XFPgfzd0Xi08)
 
@@ -81,6 +81,7 @@
 旋转定位器，电压的数值将会以柱形图的形式显示在micro:bit的5x5的LED屏幕上。当读取的电压为“0”，LED屏幕上只显示一个像素点。当电压变成3.3V的时候，LED屏幕将会被全部点亮。 
 
 ![](https://i.imgur.com/D5VDTS5.gif)
+
 
 
 ## 思考
