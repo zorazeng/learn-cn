@@ -13,11 +13,10 @@
 
 ```python
 
-	while 判断条件：
-
-  	  执行语句……
-	else :
-	  执行语句……
+while 判断条件：
+	执行语句……
+else :
+	执行语句……
 
 ```
 
@@ -28,19 +27,19 @@
 
  
 	count = 0
-	while (count < 9):									#如果变量count小于9则执行以下代码
-		display.show(count)								#输出count的值	
-		count = count + 1								#count加1
+	while (count < 9):						#如果变量count小于9则执行以下代码
+		display.show(count)					#输出count的值	
+		count = count + 1					#count加1
 	else:
 		display.scroll("goodbye", delay=400)			#输出good bye
 
 	#else可以简写省略，代码也可以写成如下：
 
 	count = 0
-	while (count < 9):									#如果变量count小于9则执行以下代码
-		display.show(count)								#输出count的值	
-		count = count + 1								#count加1
-														#如果count值大于等于9则执行以下代码
+	while (count < 9):						#如果变量count小于9则执行以下代码
+		display.show(count)					#输出count的值	
+		count = count + 1					#count加1
+									#如果count值大于等于9则执行以下代码
 		display.scroll("goodbye", delay=400)			#输出good bye
 
 ```
@@ -50,7 +49,7 @@
 ```python
 
 
-	while True：						#循环判断语句设为真，即为永久循环
+	while True：				#循环判断语句设为真，即为永久循环
 		display.show(count)
 
 
@@ -82,12 +81,12 @@
 
 ```python
 
-	for letter in 'Python':						#遍历字符串‘Python’
-		print '当前字母 :', letter 					 #letter会循环赋值为‘P’‘y’‘t’‘h’‘o’‘n’
+	for letter in 'Python':				#遍历字符串‘Python’
+		print '当前字母 :', letter			#letter会循环赋值为‘P’‘y’‘t’‘h’‘o’‘n’
 
 
 	fruits = ['banana', 'apple', 'mango']		#定义一个列表
-	for fruit in fruits:  						#fruit会被循环赋值为‘banana’‘apple’‘mango’
+	for fruit in fruits:  				#fruit会被循环赋值为‘banana’‘apple’‘mango’
 		print '当前水果 :', fruit 
 
 
@@ -124,8 +123,8 @@ range(0, 30, 5)  # 步长为 5
 	arays = [1, 8, 2, 6, 3, 9, 4]
 	for i in range(len(arays)):
 		for j in range(i+1):
-			if arays[i] < arays[j]:					# 判断语句
-            arays[i], arays[j] = arays[j], arays[i]  # 实现两个变量的互换
+			if arays[i] < arays[j]:		# 判断语句
+            arays[i], arays[j] = arays[j], arays[i]  	# 实现两个变量的互换
 # arays的值变为[1, 2, 3, 6, 8, 9]
 
 ```
