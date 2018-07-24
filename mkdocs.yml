@@ -118,7 +118,7 @@ pages:
           - 4.3 按键相关API: micropython4_3.md
           - 4.4 演示案例: micropython4_4.md
           - 4.5 课后练习: micropython4_5.md
-    - 5 输入输出IO口：
+    - 5 输入输出IO口: 
           - 5.1 什么是输入输出引脚: micropython5_1.md
           - 5.2 PWM及相关API: micropython5_2.md
           - 5.3 演示案例: micropython5_3.md
