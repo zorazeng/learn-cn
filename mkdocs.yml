@@ -145,7 +145,9 @@ pages:
     - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
   - Micro:bit 套件:
-     - Micro:bit 小小科学家套件:
+     - micro:bit 基础套件: 
+          - 3路IO基础扩展板（basic:bit）: Basic_bit_CN.md
+     - micro:bit 小小科学家套件:
           - Micro:bit 小小科学家套件: Micro_bit_Starter_Kit.md
           - 课程_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED_CN.md
           - 课程_02 按钮: Micro_bit_Starter_Kit_Lesson_02_Button_CN.md
