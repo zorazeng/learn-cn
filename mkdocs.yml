@@ -145,6 +145,8 @@ pages:
     - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
   - Micro:bit 套件:
+     - micro:bit 手表套件:
+          - 手表套件介绍: watch_kit.md
      - micro:bit 基础套件: 
           - 基础套件简介: basic_kit.md
           - 3路IO基础扩展板（basic:bit）: Basic_bit_CN.md
