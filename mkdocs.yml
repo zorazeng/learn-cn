@@ -146,6 +146,7 @@ pages:
 
   - Micro:bit 套件:
      - micro:bit 基础套件: 
+          - 基础套件简介: basic_kit.md
           - 3路IO基础扩展板（basic:bit）: Basic_bit_CN.md
      - micro:bit 小小科学家套件:
           - Micro:bit 小小科学家套件: Micro_bit_Starter_Kit.md
