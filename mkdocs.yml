@@ -92,8 +92,16 @@ markdown_extensions:
 pages:
   - 欢迎来到micro:bit知识库: 'index.md'
 
-  - makecode系列教程:
+  - microbit基础教程:
     - BBC micro:bit: Micro_bit_Board.md
+    - 游戏类: 
+        - 闪烁的心: 闪烁的心.md
+        - 笑脸: 笑脸.md
+        - 爱心表: 爱心表.md
+        - 剪刀石头布: 剪刀石头布.md
+        - 按钮魔术: 按钮魔术.md
+        - 抛硬币: 抛硬币.md
+    - 多人游戏类: 
     
   - Python系列教程:
     - 1 准备开始Micropython学习: 
