@@ -123,6 +123,18 @@ pages:
           - 5.2 PWM及相关API: micropython5_2.md
           - 5.3 演示案例: micropython5_3.md
           - 5.4 课后练习: micropython5_4.md
+    - 6 音乐: 
+          - 6.1 蜂鸣器: micropython6_1.md
+          - 6.2 播放内置音乐: micropython6_2.md
+          - 6.3 播放自定义音调: micropython6_3.md
+          - 6.4 演示案例: micropython6_4.md
+          - 6.5 课后练习: micropython6_5.md
+    - 7 加速度计与罗盘: 
+          - 7.1 Python中的随机数:  micropython7_1.md
+          - 7.2 加速度计: micropython7_2.md
+          - 7.3 指南针: micropython7_3.md
+          - 7.4 演示案例: micropython7_4.md
+          - 7.5 课后练习: micropython7_5.md
           
   - micro:bit 模组:
     - 面包板扩展板（breadboard:bit）: Micro_bit_Breadboard_Adapter_CN.md
