@@ -12,6 +12,7 @@ str_list = ["A","B","C","D","E","F","G"]
 display.show(random.choice(str_list))
 
 ```
+
 - 上边的例子代码完成了一个随机选择功能，`random.choice`这个方法为从参数中选择一个元素作为参数返回，例子中从number列表里选择了A-G中间一个字母返回，并且显示在点阵显示屏上，每次上电运行时，字母都可能不一样。
 
 
