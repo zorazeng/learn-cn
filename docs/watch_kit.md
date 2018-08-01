@@ -8,7 +8,7 @@ micro:bit手表套件是一套基于micro:bit纽扣电池扩展板的可穿戴�
 :-: | :-:
 品名|micro:bit手表套件
 版本号|V1.0
-SKU|EF08191/EF00000
+SKU|EF08191/EF08192
 净重|50g
 
 ## 文档
