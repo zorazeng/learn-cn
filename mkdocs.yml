@@ -170,7 +170,7 @@ pages:
           - 手表套件介绍: watch_kit.md
           - 案例01：便携指南针: watch_kit_case_01.md
           - 案例02：骰子: watch_kit_case_02.md
-          - 案例03：随身温度计: watch_kit_case_03.md
+          - 案例03：便携温度计: watch_kit_case_03.md
      - micro:bit 基础套件: 
           - 基础套件简介: basic_kit.md
           - 3路IO基础扩展板（basic:bit）: Basic_bit_CN.md
