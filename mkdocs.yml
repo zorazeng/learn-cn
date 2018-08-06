@@ -228,8 +228,11 @@ pages:
           - 案例_02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
           - 案例_03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
           - 案例_04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
+          
      - motor:bit 智能小车套件: 
           - motor:bit 智能小车简介: motor_bit_smart_car.md
+          - 案例01 定点停车: motor_bit_smart_car_case_01.md
+          - 案例02 保持距离: motor_bit_smart_car_case_02.md
           
   - Micro:bit 传感器与配件:
     - 蓝色电位器电子积木: Octopus_Analog_Rotation_Brick_Blue.md
