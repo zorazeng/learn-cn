@@ -62,7 +62,7 @@ Fix micro:bit board and servo.
 ![](https://i.imgur.com/4JBOP4i.png)
 ![](https://i.imgur.com/9XVim0q.png)
 
-Code Example
+Code Example  
 ![](https://i.imgur.com/LPoVRtu.png)
 
 The three servos rotate clockwise first, anti-clockwise after 1 second, then clockwise again in the next 1 second. Repeat this movement forever.
