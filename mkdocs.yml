@@ -129,6 +129,10 @@ pages:
         - 电报: 电报.md
         - 铁路交通灯: 铁路交通灯.md
         - Karel艺术: Karel艺术.md
+        
+    - micro:bit技术博客:
+        - 如何使用蓝牙: 如何使用蓝牙（IOS系统）.md
+    
 
     
   - Python系列教程:
