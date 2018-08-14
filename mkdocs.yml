@@ -203,7 +203,7 @@ pages:
           - 案例05：倒车报警: Robit_Case_05.md
           - 案例06：彩虹LED: Robit_Case_06.md
           - 案例07：自动车灯: Robit_Case_07.md
-          - 案例08: 手机遥控: Robit_Case_08.md
+          - 案例08：手机遥控: Robit_Case_08.md  
     - 金手指扩展板(edge:bit): edge_bit_CN.md
     - Micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
 
