@@ -223,6 +223,7 @@ pages:
           - 案例01：灯光控制器: basic_kit_case_01.md
           - 案例02：摩斯密码: basic_kit_case_02.md
           - 案例03：功能选择器: basic_kit_case_03.md
+          
      - micro:bit 小小科学家套件:
           - Micro:bit 小小科学家套件: Micro_bit_Starter_Kit.md
           - 课程_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED_CN.md
@@ -239,6 +240,7 @@ pages:
           - 课程_12 加速度计: Micro_bit_Starter_Kit_Lesson_12_Accelerometer_CN.md
           - 课程_13 指南针: Micro_bit_Starter_Kit_Lesson_13_Compass_CN.md
           - 课程_14 环境光: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light_CN.md
+          
      - Micro:bit 小小发明家套件: 
           - Micro:bit 小小发明家套件: Micro_bit_Tinker_Kit.md
           - 音乐播放器: Micro_bit_Tinker_Kit_Case_01_Music_Machine_CN.md
@@ -279,6 +281,7 @@ pages:
           - motor:bit 智能小车简介: motor_bit_smart_car.md
           - 案例01 定点停车: motor_bit_smart_car_case_01.md
           - 案例02 保持距离: motor_bit_smart_car_case_02.md
+          - 案例03 巡线绕圈: motor_bit_smart_car_case_03.md
           
   - Micro:bit 传感器与配件:
     - 蓝色电位器电子积木: Octopus_Analog_Rotation_Brick_Blue.md
