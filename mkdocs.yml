@@ -282,6 +282,8 @@ pages:
           - 案例01 定点停车: motor_bit_smart_car_case_01.md
           - 案例02 保持距离: motor_bit_smart_car_case_02.md
           - 案例03 巡线绕圈: motor_bit_smart_car_case_03.md
+          - 案例05 遥控小车: motor_bit_smart_car_case_05.md
+          
           
   - Micro:bit 传感器与配件:
     - 蓝色电位器电子积木: Octopus_Analog_Rotation_Brick_Blue.md
