@@ -25,13 +25,13 @@ SKU| EF04086
 ### 外型与定位尺寸  
 ![](https://i.imgur.com/RucS13Z.png)
 
-## 连线图
-![](https://i.imgur.com/cJGeHvd.png)
 ## 快速上手  
 ---  
 ### 硬件连接  
 
 将模块通过带扣杜邦线插入octopus:bit上的P1引脚，将micro:bit主板插入octopus:bit。
+
+![](https://i.imgur.com/cJGeHvd.png)
 
 ### 软件编程  
 
