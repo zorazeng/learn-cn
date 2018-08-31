@@ -35,16 +35,17 @@ SKU| EF04087
 ---  
 ### 硬件连接  
 
-将模块通过带扣杜邦线插入OCTOPUS:BIT主板上的I2C接口上，将micro:bit主板插入octopus扩展板中。
+将模块通过带扣杜邦线插入octopus:bit上的I2C接口上，将micro:bit主板插入octopus:bit中。
 
 ### 软件编程  
 
-打开makecode，编写程序读取气压值，并显示在microbit上的点阵上。
+打开makecode，编写程序读取气压值，并显示在micro:bit上的点阵上。
 程序代码链接：[https://makecode.microbit.org/_cPih8ybrDXuz](https://makecode.microbit.org/_cPih8ybrDXuz)
+
 你也能通过下列窗口直接下载代码
 [<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cPih8ybrDXuz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>](<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cPih8ybrDXuz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>)
 
 ### 结果  
-micro：bit点阵上滚动显示气压值，单位为mb。
+micro:bit点阵上滚动显示气压值，单位为mb。
 
 ## 常见问题
