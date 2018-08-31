@@ -29,13 +29,13 @@ SKU| EF04087
 ### 外型与定位尺寸  
 ![](https://i.imgur.com/ZCHyqrg.png)
 
-## 连线图
-![](https://i.imgur.com/TGFmmNb.png)
 ## 快速上手  
 ---  
 ### 硬件连接  
 
 将模块通过带扣杜邦线插入octopus:bit上的I2C接口上，将micro:bit主板插入octopus:bit中。
+
+![](https://i.imgur.com/TGFmmNb.png)
 
 ### 软件编程  
 
