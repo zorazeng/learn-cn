@@ -68,7 +68,9 @@ basic:bit是micro:bit基础扩展板。它板载了蜂鸣器，有P0、P1、P2�
 ---
 
 [Basic:bit案例01：灯光控制](/basic_kit_case_01.md/)
+
 [Basic:bit案例02：摩斯密码](/basic_kit_case_02.md/)
+
 [Basic:bit案例03：功能选择器](/basic_kit_case_03.md/)
 
 
