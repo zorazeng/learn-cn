@@ -287,16 +287,15 @@ pages:
     - BME280 气压电子积木: octopus_ef04087.md
     - 3线宽压超声波电子积木: sonar_bit.md
     - 两路巡线模块电子积木: octopus_ef04088.md  
-	
+  
   - micro:bit 其他配件:
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA 有盖带开关电池盒: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - micro:bit外壳: Micro_case_CN.md
     - micro:bit外壳带AA电池盒: Acrylic_Case_with_Two_AA_Battery_Holder.md
     - Motor:bit小车底盘: Smart_Car_Chassis_for_motor_bit_CN.md 
-	
-	
-	
+
+
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
