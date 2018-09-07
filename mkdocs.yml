@@ -246,7 +246,7 @@ pages:
         - 案例01：灯光控制器: basic_kit_case_01.md
         - 案例02：摩斯密码: basic_kit_case_02.md
         - 案例03：功能选择器: basic_kit_case_03.md	
-		
+    
     - Ring:bit 小车套件: 
         - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
         - 3路IO带电池盒扩展板（Ring:bit）: Ring_bit_CN.md
