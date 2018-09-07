@@ -247,7 +247,7 @@ pages:
         - 案例02：摩斯密码: basic_kit_case_02.md
         - 案例03：功能选择器: basic_kit_case_03.md				   		   
 				   
-     - Ring:bit 小车套件: 
+    - Ring:bit 小车套件: 
         - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
         - 3路IO带电池盒扩展板（Ring:bit）: Ring_bit_CN.md
         - 案例01 添加代码库: Ring_bit_Car_Kit_Case_01_Add_Package_CN.md
@@ -288,7 +288,7 @@ pages:
     - 3线宽压超声波电子积木: sonar_bit.md
     - 两路巡线模块电子积木: octopus_ef04088.md  
 	
-  - micro:bit 其他配件：
+  - micro:bit 其他配件:
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA 有盖带开关电池盒: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - micro:bit外壳: Micro_case_CN.md
