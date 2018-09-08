@@ -3,6 +3,9 @@
 ELECFREAKS micro:bit basic kit是一款入门级的套件。我们精选了5款最常用的电子积木,他们能通过basic:bit方便地接入micro:bit主板。
 这款套件能帮助学生们学习如何快速制作他们的micro:bit项目。这些电子积木可以被makecode默认的积木块直接驱动，无需加载额外的代码库，有利于学生从原理上理解电子积木的使用。
 
+![](https://i.imgur.com/oOrgZO3.jpg)
+
+
 ## 元件清单
 ---
 模块 | 数量
@@ -19,10 +22,8 @@ basic:kit英文说明书|1
 
 ## 文档
 ---
-案例01  
-案例02  
-案例03  
-案例04  
-案例05  
+- [案例01：灯光控制器](/basic_kit_case_01.md/)
+- [案例02：摩斯密码](/basic_kit_case_02/)  
+- [案例03：功能选择器](/basic_kit_case_03/)  
 
 ## 常见问题
