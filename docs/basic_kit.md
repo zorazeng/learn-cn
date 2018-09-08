@@ -22,6 +22,7 @@ basic:kit英文说明书|1
 
 ## 文档
 ---
+- [3路IO基础扩展板(basic:bit)](/Basic_bit_CN.md/)
 - [案例01：灯光控制器](/basic_kit_case_01.md/)
 - [案例02：摩斯密码](/basic_kit_case_02/)  
 - [案例03：功能选择器](/basic_kit_case_03/)  
