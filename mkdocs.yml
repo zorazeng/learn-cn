@@ -232,8 +232,8 @@ pages:
         - 课程_23 贪吃蛇游戏: Micro_bit_Tinker_Kit_Case_23_Snake_Game_CN.md
                    
     - micro:bit 手表套件:
-        - 钮扣电池扩展板（power:bit）: power_bit.md
         - 手表套件介绍: watch_kit.md
+        - 钮扣电池扩展板（power:bit）: power_bit.md
         - 案例01：便携指南针: watch_kit_case_01.md
         - 案例02：骰子: watch_kit_case_02.md
         - 案例03：便携温度计: watch_kit_case_03.md
@@ -256,8 +256,8 @@ pages:
         - 案例04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
           
     - motor:bit 智能小车套件: 
-        - 两路电机驱动板（motor:bit）: Motor_bit_V16.md
         - motor:bit 智能小车简介: motor_bit_smart_car.md
+        - 两路电机驱动板（motor:bit）: Motor_bit_V16.md
         - 案例01 定点停车: motor_bit_smart_car_case_01.md
         - 案例02 保持距离: motor_bit_smart_car_case_02.md
         - 案例03 巡线绕圈: motor_bit_smart_car_case_03.md
