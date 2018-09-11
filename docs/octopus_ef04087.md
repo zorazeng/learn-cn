@@ -8,7 +8,7 @@ Octopus BME280 Pressure Sensor 是基于数字湿度、压力和温度传感器�
 - 3mm标准定位孔。
 - 额定3.3v供电，支持micro:bit。
 - 支持I2C和SPI协议通讯。
-- 
+  
 ## 参数
 ---
 项目 | 参数 
@@ -39,13 +39,27 @@ SKU| EF04087
 
 ### 软件编程  
 
-打开makecode，编写程序读取气压值，并显示在micro:bit上的点阵上。
+#### 目的
+读取气压值，并显示在micro:bit上的屏幕上。
+
+#### 添加package
+在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+
+![](https://i.imgur.com/LjMR5IU.png)
+
+点击“Add Package”，在弹出的对话框中搜索“weather"，下载weather-bit代码库。
+![](https://i.imgur.com/2pzeQRn.png)
+
+编写程序，读取气压值，并显示在micro:bit上屏幕上。
+![](https://i.imgur.com/uzGqxBD.png)
+
+#### 程序下载
 程序代码链接：[https://makecode.microbit.org/_cPih8ybrDXuz](https://makecode.microbit.org/_cPih8ybrDXuz)
 
 你也能通过下列窗口直接下载代码
 [<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cPih8ybrDXuz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>](<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cPih8ybrDXuz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>)
 
 ### 结果  
-micro:bit点阵上滚动显示气压值，单位为mb。
+micro:bit点阵屏幕上滚动显示气压值，单位为MPa。
 
 ## 常见问题
