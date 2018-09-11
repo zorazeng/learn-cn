@@ -139,7 +139,7 @@ pages:
           - 1.2 什么是Python: micropython1_2.md
           - 1.3 工具及环境: micropython1_3.md
           - 1.4 小结: micropython1_4.md
-    - 2 第一个MicroPython案例: 
+    - 2 第一个Micropython案例: 
           - 2.1 Hello world: micropython2_1.md
           - 2.2 Python中的程序结构: micropython2_2.md
           - 2.3 Python中的基础语法: micropython2_3.md
@@ -178,7 +178,7 @@ pages:
           - 8.2 变量作用域: micropython8_2.md
           - 8.3 演示案例: micropython8_3.md
           - 8.4 课后练习: micropython8_4.md
-    - 9 无线电电与蓝牙: 
+    - 9 无线电与蓝牙: 
           - 9.1 Bluetooth蓝牙: micropython9_1.md
           - 9.2 无线电相关API: micropython9_2.md
           - 9.3 演示案例: micropython9_3.md
