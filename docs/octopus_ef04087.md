@@ -50,7 +50,7 @@ SKU| EF04087
 点击“Add Package”，在弹出的对话框中搜索“weather"，下载weather-bit代码库。
 ![](https://i.imgur.com/2pzeQRn.png)
 
-如图所示编写程序，读取气压值。
+如图所示编写程序，读取气压值。  
 ![](https://i.imgur.com/uzGqxBD.png)
 
 #### 程序下载
