@@ -29,15 +29,15 @@ SKU|EF03418
 
 ## 引脚接口框图
 
-![](https://i.imgur.com/lFzmU1D.png)
+![](https://i.imgur.com/lFzmU1D.png)  
 
 ## 主要功能模块介绍  
 ---  
 
 ### 8x16点阵屏  
 
-![](https://i.imgur.com/VdJMQZM.png)
-每一颗LED均可独立开启与关闭，常用来数字、常用字母及符号。
+![](https://i.imgur.com/VdJMQZM.png)  
+每一颗LED均可独立开启与关闭，常用来显示数字、常用字母及符号。
 
 ### I2C通讯接口 
 
