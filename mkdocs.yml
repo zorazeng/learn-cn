@@ -287,6 +287,7 @@ pages:
     - BME280 气压电子积木: octopus_ef04087.md
     - 3线宽压超声波电子积木: sonar_bit.md
     - 两路巡线模块电子积木: octopus_ef04088.md  
+    - 8 x 16点阵屏: octopus_ef03418.md  
   
   - micro:bit 其他配件:
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
