@@ -41,7 +41,7 @@ SKU|EF03418
 
 ### I2C通讯接口 
 
-![](https://i.imgur.com/g92phR3.png)
+![](https://i.imgur.com/g92phR3.png)  
 通过I2C通讯方式与单片机进行通讯。
 
 ## 快速上手  
