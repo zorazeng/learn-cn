@@ -70,11 +70,11 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 ## 代码解释  
 ---
 
-**set to NeoPixel **
+**set to NeoPixel**  
 
-**set to NeoPixel** 用于初始化灯，其中有三个参数需要设置：**pin**设置连接灯带的引脚；**with x leds**设置灯珠的数量；**as RGB**设置灯珠的类型。
+**set to NeoPixel** 用于初始化灯，其中有三个参数需要设置： **pin** 设置连接灯带的引脚； **with x leds** 设置灯珠的数量； **as RGB** 设置灯珠的类型。
 
-**show rainbow**
+**show rainbow**  
 
 用于把灯带设置成彩虹渐变。
 
