@@ -63,8 +63,10 @@ LED具有低电压驱动，环保节能，亮度高，散射角度大，一致�
 
 ![](https://i.imgur.com/FwzImaX.gif)
 
+程序完整代码的链接：[https://makecode.microbit.org/_cvrLAKeJC2yT](https://makecode.microbit.org/_cvrLAKeJC2yT)
+
 当然，你也可以通过下面这个链接下载程序的完整代码。点击右上角的“编辑”，然后再点击右下角的“下载”，你就可以将代码直接下载到micro:bit上了。
-程序完整代码的链接：[https://makecode.microbit.org/_WgcEz3TJ9YK8](https://makecode.microbit.org/_WgcEz3TJ9YK8)
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cvrLAKeJC2yT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ## 代码解释  
