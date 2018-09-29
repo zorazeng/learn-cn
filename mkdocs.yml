@@ -264,6 +264,10 @@ pages:
         - 案例04 自动避障: motor_bit_smart_car_case_04.md
         - 案例05 遥控小车: motor_bit_smart_car_case_05.md
         - 案例06 蓝牙控制: motor_bit_smart_car_case_06.md
+        
+    - robit智能小车套件：
+        -robit智能小车介绍:robit_smart_car.md
+        -mBot扩展版介绍: Robit_CN.md
           
   - micro:bit 独立扩展板及模组:
     - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
