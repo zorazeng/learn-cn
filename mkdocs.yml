@@ -294,6 +294,7 @@ pages:
     - PM2.5电子积木: octopus_ef04090.md  
     - 单颗彩虹LED电子积木: octopus_ef04091.md  
     - 8 x 16点阵屏: octopus_ef03418.md  
+
   
   - micro:bit 其他配件:
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
@@ -301,6 +302,8 @@ pages:
     - micro:bit外壳: Micro_case_CN.md
     - micro:bit外壳带AA电池盒: Acrylic_Case_with_Two_AA_Battery_Holder.md
     - Motor:bit小车底盘: Smart_Car_Chassis_for_motor_bit_CN.md 
+    - 3V水泵: 3V_vertical_water_pump.md
+
 
 
 # Google Analytics
