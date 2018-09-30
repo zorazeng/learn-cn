@@ -266,8 +266,8 @@ pages:
         - 案例06 蓝牙控制: motor_bit_smart_car_case_06.md
         
     - robit智能小车套件: 
-        -robit智能小车介绍: robit_smart_car.md
-        -mBot扩展版介绍: Robit_CN.md
+        - robit智能小车介绍: robit_smart_car.md
+        - mBot扩展版介绍: Robit_CN.md
           
   - micro:bit 独立扩展板及模组:
     - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
