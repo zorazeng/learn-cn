@@ -7,4 +7,4 @@
 
 ## micro:bit是什么？
 
-<embed src='http://player.youku.com/player.php/sid/XMzY5NDQwMTI0MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<iframe src="//player.bilibili.com/player.html?aid=29828301&cid=51931009&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
