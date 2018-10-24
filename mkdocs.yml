@@ -94,7 +94,7 @@ pages:
 
   - microbit 基础教程:
     - BBC micro:bit: Micro_bit_Board.md
-    - micro:bit I/O口数据手册:Edge_Connector_Data_Sheet.md
+    - micro:bit I/O口数据手册: Edge_Connector_Data_Sheet.md
     - 课堂趣味项目: 
         - 闪烁的心: 闪烁的心.md
         - 笑脸: 笑脸.md
