@@ -96,23 +96,24 @@ pages:
     - BBC micro:bit: Micro_bit_Board.md
     - micro:bit I/O口数据手册: Edge_Connector_Data_Sheet.md
     - 课堂趣味项目: 
-        - 闪烁的心: 闪烁的心.md
-        - 笑脸: 笑脸.md
-        - 爱心表: 爱心表.md
-        - 剪刀石头布: 剪刀石头布.md
-        - 按钮魔术: 按钮魔术.md
-        - 抛硬币: 抛硬币.md
-        - Salute数学游戏: Salute数学游戏.md
-        - 改造你的耳机: 改造你的耳机.md
-        - 香蕉键盘: 香蕉键盘.md
-        - 吉他: 吉他.md
-        - 钱包: 钱包.md
-        - 手表: 手表.md
-        - 倒计时器: 倒计时器.md
-        - 电子手表: 电子手表.md
-        - 土壤湿度: 土壤湿度.md
-        - 自动浇花: 自动浇花.md
-        - 反应时间: 反应时间.md
+
+        - 闪烁的心: classroom_case_01.md
+        - 笑脸: classroon_case_02.md
+        - 爱心表: classroom_case_03.md
+        - 剪刀石头布: classroom_case_04.md
+        - 按钮魔术: classroom_case_05.md
+        - 抛硬币: classroom_case_06.md
+        - Salute数学游戏: classroom_case_07.md
+        - 改造你的耳机: classroom_case_08.md
+        - 香蕉键盘: classroom_case_09.md
+        - 吉他: classroom_case_10.md
+        - 钱包: classroom_case_11.md
+        - 手表: classroom_case_12.md
+        - 倒计时器: classroom_case_13.md
+        - 电子手表: classroom_case_14.md
+        - 土壤湿度: classroom_case_15.md
+        - 自动浇花: classroom_case_16.md
+        - 反应时间: classroom_case_17.md
         - 物质状态: classroom_case_18.md
         - 情绪无线电: classroom_case_19.md
         - 土豆电报: classroom_case_20.md
@@ -130,6 +131,7 @@ pages:
         - 电报: classroom_case_32.md
         - 铁路交通灯: classroom_case_33.md
         - Karel艺术: classroom_case_34.md
+
         
     - micro:bit技术博客:
         - 如何使用蓝牙: 如何使用蓝牙（IOS系统）.md
