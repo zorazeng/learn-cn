@@ -251,6 +251,9 @@ pages:
         - 案例01：灯光控制器: basic_kit_case_01.md
         - 案例02：摩斯密码: basic_kit_case_02.md
         - 案例03：功能选择器: basic_kit_case_03.md
+        
+    - micro:bit 智能家居套件:
+        - 智能家具套件介绍: smarthome_kit_CN.md
     
     - Ring:bit 小车套件: 
         - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
@@ -273,6 +276,7 @@ pages:
     - robit智能小车套件: 
         - robit智能小车介绍: robit_smart_car.md
         - mBot扩展版介绍: Robit_CN.md
+ 
           
   - micro:bit 独立扩展板及模组:
     - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
