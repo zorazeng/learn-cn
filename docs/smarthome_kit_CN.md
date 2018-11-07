@@ -1,1 +1,0 @@
-smarthome_kit_CN.md
