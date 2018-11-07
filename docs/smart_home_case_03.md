@@ -7,7 +7,7 @@
 ## 使用材料
 ---
 
-- 1 x [Smarthome kit](https://www.elecfreaks.com/estore)
+- 1 x [Smart home Kit](https://www.elecfreaks.com/estore)
 - 1 x 瓦楞纸板
 
 ## 背景知识
