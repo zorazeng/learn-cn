@@ -6,7 +6,7 @@ Ring:bit is a simple module based on micro:bit. It can lead out 3 IO connectors,
 
 ## Hardware
 ### Features
-* Develop Envirnment: Code Kingdoms Java script, Microsoft Blocks，Microsoft Touch Develop，Python
+* Develop Environment: Code Kingdoms Java script, Microsoft Blocks，Microsoft Touch Develop，Python
 * Support GVS connectors
 * With a switch, one IO connector can be repeatedly used for double channels.
 * Small size with multiple development for DIY.
