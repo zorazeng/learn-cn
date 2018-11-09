@@ -2,7 +2,7 @@
 ---
 Game:bit 是为micro:bit量身定做的游戏手柄，主板上有一个操纵杆；四个自定义按键；以及声音和震动反馈。同时它兼备主板取出断电、插入通电功能，节能且便利。用它控制小车行动，体验编程的无限乐趣。
 
-![](https://i.imgur.com/XRAYD5N.jpg)
+![](https://i.imgur.com/XRAYD5N.jpg)  
 
 ## 特性
 ---
@@ -27,29 +27,29 @@ Game:bit 是为micro:bit量身定做的游戏手柄，主板上有一个操纵�
 ## 外形与安装定位尺寸
 ---
 
-![](https://i.imgur.com/cEMB6uA.png)
+![](https://i.imgur.com/cEMB6uA.png)  
 
 ## 主体功能模块介绍
 ---
 ### 摇杆   
-![](https://i.imgur.com/16Na1x6.png)
+![](https://i.imgur.com/16Na1x6.png)  
 摇杆的X轴与Y轴分别连接在micro:bit 的P1与P2口。
 
 ### 蜂鸣器   
-![](https://i.imgur.com/NZOy696.png)
+![](https://i.imgur.com/NZOy696.png)  
 蜂鸣器为无源蜂鸣器，连接在micro:bit的P0口。
 
 ### 震动马达  
-![](https://i.imgur.com/3wVSHD5.png)
+![](https://i.imgur.com/3wVSHD5.png)  
 震动马达连接在micro:bit的P16口。
 
 ### 按键  
-![](https://i.imgur.com/b1wuw5f.png)
+![](https://i.imgur.com/b1wuw5f.png)  
 C、D、E、F四个按键分别连接在micro:bit的P12、P13、P14、P15口。
 
 ### 7个GVS接口  
-![](https://i.imgur.com/JZshFRv.png)
-7个GVS扩展接口，可自行焊接拍照进行扩展。
+![](https://i.imgur.com/JZshFRv.png)  
+7个GVS扩展接口，可自行焊接排针进行扩展。
 
 ## 快速上手
 ### 安装
@@ -57,15 +57,15 @@ C、D、E、F四个按键分别连接在micro:bit的P12、P13、P14、P15口。
 
 ### 添加game:bit package
 进入[makecode](https://makecode.microbit.org/)在线编程平台，新建项目后，点击`Extensins`进入添加package的页面。
-![](https://i.imgur.com/O083Mwu.jpg)
+![](https://i.imgur.com/O083Mwu.jpg)  
 
 搜索关键词`gamebit`,添加 game:bit package。
-![](https://i.imgur.com/Th0J0D4.png)
+![](https://i.imgur.com/Th0J0D4.png)  
 
-![](https://i.imgur.com/8Cts0YA.png)
+![](https://i.imgur.com/8Cts0YA.png)  
 
 
-![](https://i.imgur.com/F02lFh7.png)
+![](https://i.imgur.com/F02lFh7.png)  
 
 代码连接：[https://makecode.microbit.org/_Wa2JYxbWa2m1](https://makecode.microbit.org/_Wa2JYxbWa2m1 "https://makecode.microbit.org/_Wa2JYxbWa2m1")
 
