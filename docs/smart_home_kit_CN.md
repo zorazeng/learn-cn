@@ -28,11 +28,11 @@ smart home kit英文说明书|1
 
 ## 文档
 ---
-- [3V传感器扩展版(sensor:bit)](/Sensor_bit.md/)
-- [案例01：声光控制灯](/smart_home_case_01.md/)
-- [案例02：智能控温风扇](/smart_home_case_02.md/)  
-- [案例03：智能衣柜](/smart_home_case_03.md/)  
-- [案例04：智能控噪门窗](/smart_home_case_04.md/) 
-- [案例05：水位监测器](/smart_home_case_05.md/) 
+- [3V传感器扩展版(sensor:bit)](/Sensor_bit/)
+- [案例01：声光控制灯](/smart_home_case_01/)
+- [案例02：智能控温风扇](/smart_home_case_02/)  
+- [案例03：智能衣柜](/smart_home_case_03/)  
+- [案例04：智能控噪门窗](/smart_home_case_04/) 
+- [案例05：水位监测器](/smart_home_case_05/) 
 
 ## 常见问题
