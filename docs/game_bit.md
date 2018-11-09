@@ -58,7 +58,7 @@ C、D、E、F四个按键分别连接在micro:bit的P12、P13、P14、P15口。
 
 ### 添加game:bit package
 进入[makecode](https://makecode.microbit.org/)在线编程平台，新建项目后，点击`Extensins`进入添加package的页面。
-![](https://i.imgur.com/O083Mwu.jpg)  
+![](https://i.imgur.com/OEhaqWr.png)  
 
 搜索关键词`gamebit`,添加 game:bit package。
 ![](https://i.imgur.com/Th0J0D4.png)  
