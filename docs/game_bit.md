@@ -57,7 +57,7 @@ C、D、E、F四个按键分别连接在micro:bit的P12、P13、P14、P15口。
 将两节AAA电池装入game:bit,并插入micro:bit主板。
 
 ### 添加game:bit package
-进入[makecode](https://makecode.microbit.org/)在线编程平台，新建项目后，点击`Extensins`进入添加package的页面。
+进入[makecode](https://makecode.microbit.org/)在线编程平台，新建项目后，点击`Extensions`进入添加package的页面。
 ![](https://i.imgur.com/OEhaqWr.png)  
 
 搜索关键词`gamebit`,添加 game:bit package。
