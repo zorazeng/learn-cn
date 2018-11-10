@@ -1,6 +1,7 @@
 
 ## Goal
 ---
+![](https://i.imgur.com/abtHWmp.jpg)
 
 - 制作一个智能控温风扇。
 
