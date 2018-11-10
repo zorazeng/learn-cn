@@ -1,6 +1,7 @@
 
 ## 目的
 ---
+![](https://i.imgur.com/r7N0vxc.jpg)
 
 - 制作一个水位监测器。
 
