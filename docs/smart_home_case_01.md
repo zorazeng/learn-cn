@@ -1,6 +1,7 @@
 
 ## 目的
 ---
+![](https://i.imgur.com/OyHm1YO.jpg)
 
 - 制作一个声光控制的多彩LED灯。
 
