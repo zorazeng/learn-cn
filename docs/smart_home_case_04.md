@@ -1,6 +1,7 @@
 
 ## 目的
 ---
+![](https://i.imgur.com/krV05be.jpg)
 
 - 制作一个智能门窗。
 
