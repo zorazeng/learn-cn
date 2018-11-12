@@ -1,7 +1,7 @@
+![](https://i.imgur.com/1BOixPA.jpg)
 
 ## 目的
 ---
-![](https://i.imgur.com/1BOixPA.jpg)
 
 - 制作一个智能衣柜。
 
