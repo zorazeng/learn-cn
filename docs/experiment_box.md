@@ -1,4 +1,4 @@
-##简介
+## 简介
 ---
 Experiment box是ELECFREAKS团队研发的全新micro:bit教学用具。
 Experiment box板载温度传感器、光线传感器、舵机、电机、LED等传统模块，还添加了MOS管，不同阻值电阻，电位器等电子元件，将电路设计与编程设计融为一体。
@@ -8,7 +8,7 @@ Experiment box板载温度传感器、光线传感器、舵机、电机、LED等
 
 ![](https://i.imgur.com/yg4f3xe.jpg)
 
-##板载元件清单
+## 板载元件清单
 ---
 模块 | 数量
 :-: | :-: 
