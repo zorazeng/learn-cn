@@ -242,7 +242,7 @@ pages:
         - 电路基础知识: circuit_knowledge.md
         - 软件编程案例01：LED灯: experiment_box_case_01.md
         - 软件编程案例02：按钮: experiment_box_case_02.md
-        - 软件编程案例03：RGB LED灯 experiment_box_case_03.md
+        - 软件编程案例03：RGB LED灯: experiment_box_case_03.md
         - 软件编程案例04：电位器: experiment_box_case_04.md
         - 软件编程案例05：光敏传感器: experiment_box_case_05.md
         - 软件编程案例06：温度传感器: experiment_box_case_06.md
