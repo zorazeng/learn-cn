@@ -251,8 +251,8 @@ pages:
         - 软件编程案例09：自锁按钮: experiment_box_case_09.md
         - 软件编程案例10：彩虹LED灯环: experiment_box_case_10.md
         - 软件编程案例11：直流电机: experiment_box_case_11.md
-        - 电路设计案例01：便携温度计: experiment_box_circuit_case_01.md
-        - 电路设计案例02：定时器: watch_kit_circuit_case_02.md
+        - 电路设计案例01：自锁按钮控制LED灯: experiment_box_circuit_case_01.md
+        - 电路设计案例02：电位器控制风扇转速: watch_kit_circuit_case_02.md
         
     - micro:bit 手表套件:
         - 手表套件介绍: watch_kit.md
