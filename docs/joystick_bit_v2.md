@@ -8,7 +8,7 @@ Joystick:bit 2代是为micro:bit量身定做的游戏手柄，摇杆与按键采
 ---
 - 板载蜂鸣器，强化micro:bit的音乐功能。
 - 板载震动马达，使手柄具备震动反馈的功能，游戏体验更好。
-- 增加了makecode，package，软件操控更简化。
+- 增加了makecode package，软件操控更简化。
 - 拔出主板自动断电。
 - 引出7路扩展IO口。
 
