@@ -269,6 +269,7 @@ pages:
         - 案例01：灯光控制器: basic_kit_case_01.md
         - 案例02：摩斯密码: basic_kit_case_02.md
         - 案例03：功能选择器: basic_kit_case_03.md
+        - 案例05：震惊盒子: basix_kit_case_05.md
         
     - micro:bit 智能家居套件:
         - 智能家具套件介绍: smart_home_kit_CN.md
