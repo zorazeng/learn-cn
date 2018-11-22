@@ -236,7 +236,24 @@ pages:
         - 课程_22 摩尔斯代码信息传输: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission_CN.md
         - 课程_23 贪吃蛇游戏: Micro_bit_Tinker_Kit_Case_23_Snake_Game_CN.md
         - 课程_24 game:bit套件: Micro_bit_Tinker_Kit_Case_24_Game_Bit_CN.md
-                   
+               
+    - micro:bit 实验箱套件:
+        - 实验箱套件介绍: experiment_box.md
+        - 电路基础知识: circuit_knowledge.md
+        - 软件编程案例01：LED灯: experiment_box_case_01.md
+        - 软件编程案例02：按钮: experiment_box_case_02.md
+        - 软件编程案例03：RGB LED灯 experiment_box_case_03.md
+        - 软件编程案例04：电位器: experiment_box_case_04.md
+        - 软件编程案例05：光敏传感器: experiment_box_case_05.md
+        - 软件编程案例06：温度传感器: experiment_box_case_06.md
+        - 软件编程案例07：蜂鸣器: experiment_box_case_07.md
+        - 软件编程案例08：舵机: experiment_box_case_08.md
+        - 软件编程案例09：自锁按钮: experiment_box_case_09.md
+        - 软件编程案例10：彩虹LED灯环: experiment_box_case_10.md
+        - 软件编程案例11：直流电机: experiment_box_case_11.md
+        - 电路设计案例01：便携温度计: experiment_box_circuit_case_01.md
+        - 电路设计案例02：定时器: watch_kit_circuit_case_02.md
+        
     - micro:bit 手表套件:
         - 手表套件介绍: watch_kit.md
         - 钮扣电池扩展板（power:bit）: power_bit.md
