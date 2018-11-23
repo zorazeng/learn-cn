@@ -237,6 +237,15 @@ pages:
         - 课程_23 贪吃蛇游戏: Micro_bit_Tinker_Kit_Case_23_Snake_Game_CN.md
         - 课程_24 game:bit套件: Micro_bit_Tinker_Kit_Case_24_Game_Bit_CN.md
                
+    - micro:bit 智能家居套件:
+        - 智能家具套件介绍: smart_home_kit.md
+        - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
+        - 案例01 声光控制灯: smart_home_case_01.md
+        - 案例02 智能控温风扇: smart_home_case_02.md
+        - 案例03 智能衣柜: smart_home_case_03.md
+        - 案例04 智能控噪门窗: smart_home_case_04.md
+        - 案例05 水位监测器: smart_home_case_05.md
+    
     - micro:bit 实验箱套件:
         - 实验箱套件介绍: experiment_box.md
         - 电路基础知识: circuit_knowledge.md
@@ -275,14 +284,7 @@ pages:
         
 
         
-    - micro:bit 智能家居套件:
-        - 智能家具套件介绍: smart_home_kit_CN.md
-        - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
-        - 案例01 声光控制灯: smart_home_case_01.md
-        - 案例02 智能控温风扇: smart_home_case_02.md
-        - 案例03 智能衣柜: smart_home_case_03.md
-        - 案例04 智能控噪门窗: smart_home_case_04.md
-        - 案例05 水位监测器: smart_home_case_05.md
+    
     
     - Ring:bit 小车套件: 
         - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
