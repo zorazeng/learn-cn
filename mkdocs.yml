@@ -309,7 +309,6 @@ pages:
     - 金手指扩展板(edge:bit): edge_bit_CN.md
     - micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
     - micro:bit 游戏手柄: joystick_bit_v2.md
-    - micro:bit 圣诞树彩灯: christmas_tree_rainbow_led.md
     - mBot扩展版（robit）: 
         - mBot扩展版介绍: Robit_CN.md
         - 案例01 超声波测距: Robit_Case_01.md
@@ -330,8 +329,9 @@ pages:
     - 两路巡线模块电子积木: octopus_ef04088.md  
     - PM2.5电子积木: octopus_ef04090.md  
     - 单颗彩虹LED电子积木: octopus_ef04091.md  
-    - 8 x 16点阵屏: octopus_ef03418.md  
-
+    - 8 x 16点阵屏: octopus_ef03418.md
+    - 圣诞树彩灯: christmas_tree_rainbow_led.md
+    - 雪花蜂鸣器: snowflake_buzzer.md
   
   - micro:bit 其他配件:
     - 2xAA 无盖电池盒: 2xAA_Battery_Holder_without_Cover.md
