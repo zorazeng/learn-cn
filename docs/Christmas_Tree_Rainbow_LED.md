@@ -1,11 +1,11 @@
 ## 介绍
 ---
- 圣诞树彩灯，板载6颗可编程彩虹LED，在圣诞节的美丽夜晚，为你点亮七彩的梦。
+ 圣诞树彩灯，板载6颗可编程彩虹LED，装饰圣诞节的美丽夜晚。
 
 ## 特征
 ---
 - 圣诞树外形，适合搭建圣诞主题场景。
-- 采用可编程彩虹LED，任意色彩由你定义。
+- 采用可编程彩虹LED，可以自定义任意色彩。
 - 采用鳄鱼夹线连接，无需扩展板。
 
 ## 参数
@@ -33,9 +33,9 @@
 ![](https://i.imgur.com/8uQCfYE.jpg)
 
 ### 软件编程  
-### 步骤 1
+#### 步骤 1
 
-- 点击打开[微软makecode在线积木块编程https://makecode.microbit.org/#](https://makecode.microbit.org/#)。
+- [点击打开微软makecode在线积木块编程https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
 - 点击New Project按钮，新建一个项目。
 
@@ -49,20 +49,26 @@
 
 ![](https://i.imgur.com/pqB776X.png)
 
-### 步骤 2
+#### 步骤 2
 
-- 从neopixel函数库中拖出set strip to neopixel at pin with leds as积木块加入start中，设置引脚为P0，灯珠数为6，使用rgb模式。
+- 从neopixel函数库中拖出 set strip to neopixel at pin with leds as 积木块加入start中，设置引脚为P0，灯珠数为6，使用rgb模式。
+
 ![](https://i.imgur.com/PXHZH2L.png)
 
-### 步骤 3
+#### 步骤 3
 
 - 从neopixel函数库中拖出strip rotate 积木块加入到forever循环中，将参数设置为1，设置为灯珠一个一个改变颜色。
 - 再拖出一个strip show积木块，用于使圣诞树发出七彩光芒。
-![](https://i.imgur.com/LMHM9JS.png)
-编程链接:[https://makecode.microbit.org/_MMcHh7AjY97M](https://makecode.microbit.org/_MMcHh7AjY97M)
 
-您也可以直接在下面下载：
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MMcHh7AjY97M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+![](https://i.imgur.com/LMHM9JS.png)
+
+### 程序
+
+请参考程序连接：[https://makecode.microbit.org/_MMcHh7AjY97M](https://makecode.microbit.org/_MMcHh7AjY97M)
+
+你也可以通过以下网页直接下载程序。
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MMcHh7AjY97M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### 结果  
 
