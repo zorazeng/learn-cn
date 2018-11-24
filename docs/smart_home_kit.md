@@ -6,6 +6,14 @@ smart home套件精选TMP36温度传感器、声音传感器、碰撞传感器�
 ![](https://i.imgur.com/1ku05L8.jpg)
 
 ## 应用场景
+---
+### 智能风扇  
+![](https://i.imgur.com/XJbqrkd.jpg)
+
+### 智能灯  
+![](https://i.imgur.com/TjI8a2b.jpg)
+
+更多应用案例，请参考套件资料
 
 ## 元件清单
 模块|数量|备注
