@@ -38,9 +38,13 @@
 
 - 在input函数库中选择当按钮A按下时。编写一小段音乐。
 
+![](https://i.imgur.com/cPG4w9y.png)
+
 #### 步骤 2
 
 - 再从input函数库中选择当按钮B按下时。编写一小段音乐。
+
+![](https://i.imgur.com/etnarAi.png)
 
 ### 程序
 
