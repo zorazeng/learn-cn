@@ -1,0 +1,73 @@
+## 介绍
+---
+ 圣诞树彩灯，板载6颗可编程彩虹LED，在圣诞节的美丽夜晚，为你点亮七彩的梦。
+
+## 特征
+---
+- 圣诞树外形，适合搭建圣诞主题场景。
+- 采用可编程彩虹LED，任意色彩由你定义。
+- 采用鳄鱼夹线连接，无需扩展板。
+
+## 参数
+---
+|项目|参数|
+|:-:|:-:|
+|品名|圣诞树彩灯|
+|SKU| EF03420|
+|输入电压|DC 3.0~5.5V|
+|尺寸|109.61mm X 49.56mm|
+|净重|31.3g|
+
+
+## 快速入门  
+---
+### 准备套件
+- 1 x 圣诞树彩灯
+- 3 x 鳄鱼夹线（产品不包含鳄鱼夹线,请另行购买。）
+- 1 x micro:bit（产品不包含micro:bit,请另行购买。）
+### 硬件连接  
+- 黑色鳄鱼夹与micro:bit上GND端连接，黑色鳄鱼夹另一端与圣诞树彩灯右端标示G端连接
+- 红色鳄鱼夹与micro:bit上3V端连接，红色鳄鱼夹另一端与圣诞树彩灯中间标示V端连接
+- 黄色鳄鱼夹与micro:bit上1端口连接，黄色鳄鱼夹另一端与圣诞树彩灯中间标示S端连接
+
+![](https://i.imgur.com/8uQCfYE.jpg)
+
+### 软件编程  
+### 步骤 1
+
+- 点击打开[微软makecode在线积木块编程https://makecode.microbit.org/#](https://makecode.microbit.org/#)。
+
+- 点击New Project按钮，新建一个项目。
+
+![](https://i.imgur.com/t34k5Zb.png)
+
+- 点击Advanced(高级)查看更多代码选项，并在底部找到Extensions(扩展代码库)。
+
+![](https://i.imgur.com/Zg0fO6x.png)
+
+- 搜索neopixel，添加neopixel代码库。
+
+![](https://i.imgur.com/pqB776X.png)
+
+### 步骤 2
+
+- 从neopixel函数库中拖出set strip to neopixel at pin with leds as积木块加入start中，设置引脚为P0，灯珠数为6，使用rgb模式。
+![](https://i.imgur.com/PXHZH2L.png)
+
+### 步骤 3
+
+- 从neopixel函数库中拖出strip rotate 积木块加入到forever循环中，将参数设置为1，设置为灯珠一个一个改变颜色。
+- 再拖出一个strip show积木块，用于使圣诞树发出七彩光芒。
+![](https://i.imgur.com/LMHM9JS.png)
+编程链接:[https://makecode.microbit.org/_MMcHh7AjY97M](https://makecode.microbit.org/_MMcHh7AjY97M)
+
+您也可以直接在下面下载：
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MMcHh7AjY97M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+### 结果  
+
+圣诞树彩灯发出七彩的光芒，为圣诞夜增添一分美丽。
+
+![](https://i.imgur.com/fDvmCab.gif)
+
+## FAQ
