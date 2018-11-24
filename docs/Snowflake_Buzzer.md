@@ -14,14 +14,16 @@
 |:-:|:-:|
 |品名|雪花蜂鸣器|
 |SKU| EF03419|
+|尺寸|45.72mm标准六边形|
+|净量|8.3克|
 
 
 ## 快速入门  
 ---
 ### 准备套件
-- 1 x micro:bit
 - 1 x 雪花蜂鸣器
-- 3 x 鳄鱼夹线
+- 1 x micro:bit（本产品不包含micro:bit主板）
+- 3 x 鳄鱼夹线（本产品不包含鳄鱼夹线）
 
 ### 硬件连接  
 
@@ -32,26 +34,24 @@
 ![](https://i.imgur.com/h65KyxW.jpg)
 
 ### 软件编程  
-####步骤一
-- 在input函数库中选择当A按下
+####步骤 1
 
+- 在input函数库中选择当按钮A按下时。编写一小段音乐。
 
-####步骤二
--  从Music函数库中拖出star melody repeating 选择ba ding 和once。
-![](https://i.imgur.com/Ocem2Lq.png)
+####步骤 2
 
-####步骤三
+- 再从input函数库中选择当按钮B按下时。编写一小段音乐。
 
-- 下载程序到microbit中
+### 程序
 
+请参考程序连接：[https://makecode.microbit.org/_W27acib6j8D3](https://makecode.microbit.org/_W27acib6j8D3)
 
-编程链接:[https://makecode.microbit.org/_ERW70kJg47KA](https://makecode.microbit.org/_ERW70kJg47KA)]
+你也可以通过以下网页直接下载程序。
 
-您也可以直接在下面下载：
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ERW70kJg47KA" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_W27acib6j8D3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### 结果  
 
-按下A键的那一刻，发出清脆的ba ding声。
+- 按下A按钮播放《铃儿响叮当》一小段，按下B按钮播放《铃儿响叮当》后一小段。
 
 ## FAQ
