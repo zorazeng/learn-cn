@@ -247,6 +247,7 @@ pages:
         - 案例05 水位监测器: smart_home_case_05.md
         - 案例06 智能遥控开门器: smart_home_case_06.md
         - 案例07 智能分贝测试器: smart_home_case_07.md
+        - 案例08 肺活量测试器: smart_home_case_08.md
     
     - micro:bit 实验箱套件:
         - 实验箱套件介绍: experiment_box.md
