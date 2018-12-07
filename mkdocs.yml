@@ -248,6 +248,9 @@ pages:
         - 案例06 智能遥控开门器: smart_home_case_06.md
         - 案例07 智能分贝测试器: smart_home_case_07.md
         - 案例08 肺活量测试器: smart_home_case_08.md
+        - 案例09 测谎仪: smart_home_case_09.md
+        - 案例10 报警装置: smart_home_case_10.md
+        - 案例11 入侵检测系统: smart_home_case_11.md
     
     - micro:bit 实验箱套件:
         - 实验箱套件介绍: experiment_box.md
