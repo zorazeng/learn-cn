@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
-
 你的反应能力是否和我的一样好呢？
 
 ## 制作目标  
