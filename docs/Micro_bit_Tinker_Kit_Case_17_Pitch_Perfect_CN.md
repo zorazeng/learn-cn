@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
-
 如果你觉得你能够识别出正确的音调，那么就试一试我的这个游戏吧。或者，更厉害一点，创造一个这样的游戏吧！
 
 ## 目标
