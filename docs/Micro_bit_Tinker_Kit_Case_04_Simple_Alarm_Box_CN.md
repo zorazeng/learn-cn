@@ -1,8 +1,6 @@
 
-
-## Step 0: Pre-build Overview    
-
-![](https://i.imgur.com/mNlJj4l.png)  
+## 目标: 
+制作一个简易的报警装置
 
 
 ## 步骤 0: 项目简介  
