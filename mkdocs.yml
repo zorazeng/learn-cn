@@ -288,8 +288,8 @@ pages:
         - 案例05：震惊盒子: basic_kit_case_05.md
     
     - Ring:bit 小车套件: 
-        - Ring:bit 小车套件: ring_bit_car_v2.md
-        - 3路IO带电池盒扩展板（Ring:bit）: ring_bit_v2.md
+        - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
+        - 3路IO带电池盒扩展板（Ring:bit）: Ring_bit_CN.md
         - 案例01 添加代码库: Ring_bit_Car_Kit_Case_01_Add_Package_CN.md
         - 案例02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
         - 案例03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
