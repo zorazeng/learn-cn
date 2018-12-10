@@ -12,7 +12,7 @@ ELECFREAKS Ring:bit二代智能车是一款小型DIY智能车，由BBC micro:bit
 
 
 |元件|数量|图片|
-|:-:|:-:||
+|:-:|:-:|:-:|
 |micro:bit|选配|![](https://i.imgur.com/qd2qCry.png)|
 |Ring:bit 扩展板|1|![](https://i.imgur.com/y42umRI.jpg)|
 |Ring:bit Car 扩展板|1|![](https://i.imgur.com/FISsc91.jpg)|
