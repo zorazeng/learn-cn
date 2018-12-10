@@ -53,7 +53,7 @@
 ![](https://i.imgur.com/FCt8S8c.jpg)
 
 
-## Rerlated Documents
+## 相关文档
 - [Ring:bit Car装配教程](//)
 - [Ring:bit 二代扩展板简介](//)
 - [Ring:bit 积木块介绍](//)
