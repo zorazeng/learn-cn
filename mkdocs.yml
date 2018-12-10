@@ -288,13 +288,24 @@ pages:
         - 案例05：震惊盒子: basic_kit_case_05.md
     
     - Ring:bit 小车套件: 
-        - Ring:bit 小车套件: Ring_bit_Car_Kit_CN.md
-        - 3路IO带电池盒扩展板（Ring:bit）: Ring_bit_CN.md
+        - Ring:bit 小车套件: ring_bit_car_v2.md
+        - 3路IO带电池盒扩展板（Ring:bit）: ring_bit_v2.md
         - 案例01 添加代码库: Ring_bit_Car_Kit_Case_01_Add_Package_CN.md
         - 案例02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
         - 案例03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
         - 案例04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
-          
+        
+    - Ring:bit 二代小车套件: 
+        - Ring:bit 二代小车套件: ring_bit_car_v2.md
+        - Ring:bit 小车组装教程: ring_bit_car_v2_assembly_step.md
+        - 3路IO带电池盒扩展板（Ring:bit）: ring_bit_v2.md
+        - Ring:bit积木块介绍: ring_bit_car_v2_extensions.md
+        - 案例01 全速行驶: ring_bit_car_v2_case_01.md
+        - 案例02 画一个形状: ring_bit_car_v2_case_02.md
+        - 案例03 转弯画圆: ring_bit_car_v2_case_03.md
+        - 案例04 警察来了: ring_bit_car_v2_case_04.md
+        - 案例05 疯狂舞蹈: ring_bit_car_v2_case_05.md
+        
     - motor:bit 智能小车套件: 
         - motor:bit 智能小车简介: motor_bit_smart_car.md
         - 两路电机驱动板（motor:bit）: Motor_bit_V16.md
