@@ -1,52 +1,52 @@
 
-## Ring:bit car 2 Components Lists
+## Ring:bit car 2代零件图
 ---
 ![](https://i.imgur.com/V2L4Pjh.jpg)
 
 ![](https://i.imgur.com/2DuA1A7.jpg)
 
-## Assembly Step
+## 装配步棸
 ---
-### Step-1 ###
+### 步棸1 ###
 
-- Fisrt, 首先将舵机使用自攻螺丝安装固定至侧板。
+- 首先将舵机使用自攻螺丝安装固定至侧板。
 - 然后将轮子使用自攻螺丝安装固定在舵机。
 
 ![](https://i.imgur.com/W3VGpPG.jpg)
 
-### Step-2 ###
+### 步棸2 ###
 
 - 使用铆钉将万向轮安装固定在尾板。
 
 ![](https://i.imgur.com/RCHMJNv.jpg)
 
-### Step-3 ###
+### 步棸3 ###
 
 - 将前板、后板、尾板、专用扩展板拼插在侧板上。
 
 ![](https://i.imgur.com/Kkk1Bcd.jpg)
 
-### Step-4 ###
+### 步棸4 ###
 
 - 使用连接柱将小车锁紧。
 
 ![](https://i.imgur.com/xEpdqfP.jpg)
 
-### Step-5 ###
+### 步棸5 ###
 
 - 使用平头螺丝将micro:bit主板安装在Ring:bit上。
 
 ![](https://i.imgur.com/RAxSlWq.jpg)
 
 
-### Step-6 ###
+### 步棸6 ###
 
 - 按如图接线，连接某个端口可以自定，在编程的时候需要确定。
 
 ![](https://i.imgur.com/UwEHU4l.jpg)
 ![](https://i.imgur.com/Jepmq6y.jpg)
 
-### Completed ###
+### 完成 ###
 
 - 将组装好的Ring:bit插在前板上，完成组装。
 
