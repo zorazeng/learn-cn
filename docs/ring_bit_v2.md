@@ -18,6 +18,7 @@
 ![](https://i.imgur.com/MVoGDx1.jpg)
 
 *二代智能小车和二代Ring:bit相较于一代产品都进行了升级，此文档所提ring:bit及ring:bit car均为二代产品，以下不做赘述。*
+
 *一代Ring:bit Car资料链接:[Ring:bit 小车套件：www.elecfreaks.com/learn-cn/Ring_bit_Car_Kit_CN](/Ring_bit_Car_Kit_CN/)*
 
 
