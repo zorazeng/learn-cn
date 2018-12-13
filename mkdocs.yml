@@ -306,7 +306,7 @@ pages:
         - 案例04 警察来了: ring_bit_car_v2_case_04.md
         - 案例05 疯狂舞蹈: ring_bit_car_v2_case_05.md
         - 案例06 远程控制: ring_bit_car_v2_case_06.md
-        - 案例07 自动停止: ring_bit_car_v2_case_07.md
+        - 案例07 侧翻检测: ring_bit_car_v2_case_07.md
         - 案例08 灯光巡线: ring_bit_car_v2_case_08.md
         
     - motor:bit 智能小车套件: 
