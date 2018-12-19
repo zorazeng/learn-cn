@@ -136,6 +136,7 @@ pages:
     - micro:bit I/O口数据手册: Edge_Connector_Data_Sheet.md
     - WebUSB下载问题: troubleshooting_downloads_with_webusb.md
     - 如何使用蓝牙: 如何使用蓝牙（IOS系统）.md
+    - 加速度计算法: ring_bit_car_v2_accelerometer_arithmetic.md
     
     
   - Micropython 系列教程:
@@ -308,6 +309,7 @@ pages:
         - 案例06 远程控制: ring_bit_car_v2_case_06.md
         - 案例07 侧翻检测: ring_bit_car_v2_case_07.md
         - 案例08 灯光寻路: ring_bit_car_v2_case_08.md
+        - 案例09 加速度计远程控制: ring_bit_car_v2_case_09.md
         
     - motor:bit 智能小车套件: 
         - motor:bit 智能小车简介: motor_bit_smart_car.md
