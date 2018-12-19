@@ -54,11 +54,11 @@
 
 
 ## 相关文档
-- [Ring:bit Car装配教程](//)
-- [Ring:bit 二代扩展板简介](//)
-- [Ring:bit 积木块介绍](//)
-- [Case_01 全速行驶](//)
-- [Case_02 画一个形状](//)
-- [Case_03 以一个角度转弯](//)
-- [Case_04 警察来了](//)
-- [Case_05 疯狂的舞蹈](//)
+- [Ring:bit Car装配教程](/ring_bit_car_v2_assembly_step.md/)
+- [Ring:bit 二代扩展板简介](/ring_bit_v2.md/)
+- [Ring:bit 积木块介绍](/ring_bit_car_v2_extensions.md/)
+- [Case_01 全速行驶](/ring_bit_car_v2_case_01.md/)
+- [Case_02 画一个形状](/ring_bit_car_v2_case_02.md/)
+- [Case_03 以一个角度转弯](/ring_bit_car_v2_case_03.md/)
+- [Case_04 警察来了](/ring_bit_car_v2_case_04.md/)
+- [Case_05 疯狂的舞蹈](/ring_bit_car_v2_case_05.md/)
