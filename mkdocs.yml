@@ -255,7 +255,7 @@ pages:
     
     - micro:bit 实验箱套件:
         - 实验箱套件介绍: experiment_box.md
-        - 电路基础知识: circuit_knowledge.md
+        - 电路基础知识: experiment_box_circuit_knowledge.md
         - 软件编程案例01：LED灯: experiment_box_case_01.md
         - 软件编程案例02：按钮: experiment_box_case_02.md
         - 软件编程案例03：RGB LED灯: experiment_box_case_03.md
