@@ -295,6 +295,10 @@ pages:
         - 案例02 折线行走: Ring_bit_Car_Kit_Case_02_S_Walk_CN.md
         - 案例03 画圆: Ring_bit_Car_Kit_Case_03_Draw_a_Circel_CN.md
         - 案例04 无线遥控: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control_CN.md
+        - 案例05 疯狂舞蹈: ring_bit_car_case_05.md
+        - 案例06 侧翻检测: ring_bit_car_case_06.md
+        - 案例07 灯光寻路: ring_bit_car_case_07.md
+        - 案例08 加速度计远程控制: ring_bit_car_case_08.md
         
     - Ring:bit 二代小车套件: 
         - Ring:bit 二代小车套件: ring_bit_car_v2.md
