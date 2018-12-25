@@ -323,16 +323,7 @@ pages:
         
     - robit智能小车套件: 
         - robit智能小车介绍: robit_smart_car.md
-        - mBot扩展版介绍: Robit_CN.md
- 
-          
-  - micro:bit 独立扩展板及模组:
-    - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
-    - 金手指扩展板(edge:bit): edge_bit_CN.md
-    - micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
-    - micro:bit 游戏手柄: joystick_bit_v2.md
-    - mBot扩展版（robit）: 
-        - mBot扩展版介绍: Robit_CN.md
+        - mBot扩展版介绍（robit）: Robit_CN.md
         - 案例01 超声波测距: Robit_Case_01.md
         - 案例02 超声波避障: Robit_Case_02.md
         - 案例03 永不坠落的小车: Robit_Case_03.md
@@ -342,6 +333,15 @@ pages:
         - 案例07 自动车灯: Robit_Case_07.md
         - 案例08 手机遥控: Robit_Case_08.md 
         
+ 
+          
+  - micro:bit 独立扩展板及模组:
+    - 3V传感器扩展板（sensor:bit）: Sensor_bit.md
+    - 金手指扩展板(edge:bit): edge_bit_CN.md
+    - micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
+    - micro:bit 游戏手柄: joystick_bit_v2.md
+    - mBot扩展板（robit）: Robit_CN.md
+
         
   - micro:bit 电子积木传感器:
     - 蓝色电位器电子积木: octopus_ef04085.md
