@@ -334,7 +334,8 @@ pages:
     - 金手指扩展板(edge:bit): edge_bit_CN.md
     - micro:bit 电源模块: Micro_bit_Power_Supply_Module_3.3V_2A_CN.md
     - micro:bit 游戏手柄: joystick_bit_v2.md
-    - mBot扩展板（robit）: Robit_CN.md
+    - mBot扩展板（robit）: 
+        - mBot扩展版介绍（robit）: Robit_CN.md
         - 案例01 超声波测距: Robit_Case_01.md
         - 案例02 超声波避障: Robit_Case_02.md
         - 案例03 永不坠落的小车: Robit_Case_03.md
