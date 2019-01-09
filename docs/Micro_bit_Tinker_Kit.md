@@ -28,8 +28,4 @@ ElecFreaks Micro:bit Tinker Kit是micro:bit的套件，无需复杂的面包板�
 - [Case_22 有线传输](Micro_bit_Tinker_Kit_Case_22_Wire_Transmission_CN.md)
 - [Case_23 贪吃蛇](Micro_bit_Tinker_Kit_Case_23_Snake_Game_CN.md)
 - [Case_24 组装Game:bit!](Micro_bit_Tinker_Kit_Case_24_Game_Bit_CN.md)
-- [Case_26 硬币分类机](Micro_bit_Tinker_Kit_Case_26_Coin_Sorter_CN.md)
-- [Case_27 招财猫](Micro_bit_Tinker_Kit_Case_27_Make_A_Waving_Fortune_Cat_CN.md)
-- [Case_28 拼装小车 v2](Micro_bit_Tinker_Kit_Case_28_Put_Together_The_Krazy_Kar_CN.md)
-- [Case_30 反应时间测试仪](Micro_bit_Tinker_Kit_Case_30_Reaction_Time_Tester_CN.md)
-- [Case_31 摩斯密码发射](Micro_bit_Tinker_Kit_Case_31_Morse_Code_Transmitter_CN.md)
+
