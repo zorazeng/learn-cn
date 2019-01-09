@@ -328,8 +328,8 @@ pages:
     - robit智能小车套件: 
         - robit智能小车介绍: robit_smart_car.md
         - mBot扩展版介绍（robit）: Robit_CN.md
-        - robit智能小车案例01：超声波测距: robit_smart_car_case_01
-        - robit智能小车案例02：边缘检测: robit_smart_car_case_02
+        - robit智能小车案例01：超声波测距: robit_smart_car_case_01.md
+        - robit智能小车案例02：边缘检测: robit_smart_car_case_02.md
         
           
   - micro:bit 独立扩展板及模组:
