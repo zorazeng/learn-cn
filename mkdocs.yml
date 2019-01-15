@@ -299,7 +299,7 @@ pages:
         - 案例06 侧翻检测: ring_bit_car_case_06.md
         - 案例07 灯光寻路: ring_bit_car_case_07.md
         - 案例08 加速度计远程控制: ring_bit_car_case_08.md
-        
+      
     - Ring:bit 二代小车套件: 
         - Ring:bit 二代小车套件: ring_bit_car_v2.md
         - Ring:bit 小车组装教程: ring_bit_car_v2_assembly_step.md
@@ -314,7 +314,7 @@ pages:
         - 案例07 侧翻检测: ring_bit_car_v2_case_07.md
         - 案例08 灯光寻路: ring_bit_car_v2_case_08.md
         - 案例09 加速度计远程控制: ring_bit_car_v2_case_09.md
-        
+     
     - motor:bit 智能小车套件: 
         - motor:bit 智能小车简介: motor_bit_smart_car.md
         - 两路电机驱动板（motor:bit）: Motor_bit_V16.md
@@ -348,6 +348,7 @@ pages:
         - 案例06 彩虹LED: Robit_Case_06.md
         - 案例07 自动车灯: Robit_Case_07.md
         - 案例08 手机遥控: Robit_Case_08.md 
+        - 案例09 反应力小游戏: Robit_Case_09.md
                 
   - micro:bit 电子积木传感器:
     - 蓝色电位器电子积木: octopus_ef04085.md
