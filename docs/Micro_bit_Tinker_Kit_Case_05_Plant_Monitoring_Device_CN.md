@@ -66,11 +66,11 @@
 
 如果你不想自己亲手编写代码，你可以通过下面的这个链接直接下载程序的所有代码。
 
-[https://makecode.microbit.org/_DV547gK8j9ms](https://makecode.microbit.org/_DV547gK8j9ms)
+[https://makecode.microbit.org/_Ja5AomXm7UVJ](https://makecode.microbit.org/_Ja5AomXm7UVJ)
 
 或者，你也可以通过这个页面下载代码：
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DV547gK8j9ms" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Ja5AomXm7UVJ" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 终于完成啦！你已经成功地制作出了一个植物土壤湿度检测装置哦！现在，让我们一起来看看看效果吧！
