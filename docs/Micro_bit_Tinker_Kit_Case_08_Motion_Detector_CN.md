@@ -13,6 +13,7 @@
 
 ## 所需材料：  
 ---  
+
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)
 - 1 x USB线
 - 1 x [扩展板](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)
