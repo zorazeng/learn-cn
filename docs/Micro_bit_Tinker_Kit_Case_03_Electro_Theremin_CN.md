@@ -68,11 +68,11 @@
 
 如果你不想自己动手编写这些代码的话，你可以从下面这个链接下载程序的完整代码：
 
-[https://makecode.microbit.org/_5jUeetL6oKqi](https://makecode.microbit.org/_5jUeetL6oKqi)
+[https://makecode.microbit.org/_bK4T5Kh4qarH](https://makecode.microbit.org/_bK4T5Kh4qarH)
 
 或者，你也可以从下面这个页面下载代码：
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5jUeetL6oKqi" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_bK4T5Kh4qarH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ### 太棒啦！  
